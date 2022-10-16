@@ -6,13 +6,12 @@ from utils.HTKUtils import generate_hmmdefs_file, generate_wav_list_file, genera
 if __name__ == "__main__":
     train_data_root = "..\\data\\Train\\VacekVety"
     target_root = "SD_Experiment"
+    train_iter_count = 20
 
     # Created by user
     grammar_file = "grammar"
     lexicon_file = "lexicon"
     wlist_file = "wlist"
-    global_ded_file = "global.ded"
-
 
     wav_train_list_file = "train.list"
     mlf_train_file = "train.mlf"
@@ -43,7 +42,7 @@ if __name__ == "__main__":
     generate_hmmdefs_file(model_path)
 
     train_model(target_root,
-                iter_count=6,
+                iter_count=train_iter_count,
                 train_mlf_file=mlf_train_file,
                 train_scp_file=scp_train_file,
                 models0_file=phonem_models0_file)

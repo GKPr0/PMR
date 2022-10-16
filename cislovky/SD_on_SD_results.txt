@@ -1,6 +1,3 @@
-Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c0_p2206_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c0_p2206_s01.rec
- LAB: NULA 
- REC: PET  
 Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c0_p2206_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c0_p2206_s02.rec
  LAB: NULA 
  REC: PET  
@@ -15,7 +12,7 @@ Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c0_p2206_s05.lab 
  REC: PET  
 Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c1_p2206_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c1_p2206_s01.rec
  LAB: JEDNA 
- REC: PET   
+ REC: DEVET 
 Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c1_p2206_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c1_p2206_s02.rec
  LAB: JEDNA 
  REC: PET   
@@ -29,11 +26,11 @@ Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c1_p2206_s05.lab 
  LAB: JEDNA 
  REC: PET   
 Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c2_p2206_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c2_p2206_s01.rec
- LAB: DVA 
- REC: PET 
-Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c2_p2206_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c2_p2206_s02.rec
  LAB: DVA   
  REC: DEVET 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c2_p2206_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c2_p2206_s02.rec
+ LAB: DVA 
+ REC: TRI 
 Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c2_p2206_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c2_p2206_s03.rec
  LAB: DVA 
  REC: PET 
@@ -43,26 +40,8 @@ Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c2_p2206_s04.lab 
 Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c2_p2206_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c2_p2206_s05.rec
  LAB: DVA 
  REC: PET 
-Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c4_p2206_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c4_p2206_s05.rec
- LAB: CTYRI 
- REC: TRI   
-Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c6_p2206_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c6_p2206_s01.rec
- LAB: SEST 
- REC: PET  
-Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c6_p2206_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c6_p2206_s02.rec
- LAB: SEST 
- REC: PET  
 Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c6_p2206_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c6_p2206_s03.rec
  LAB: SEST 
- REC: TRI  
-Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c6_p2206_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c6_p2206_s04.rec
- LAB: SEST 
- REC: PET  
-Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c7_p2206_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c7_p2206_s03.rec
- LAB: SEDM 
- REC: TRI  
-Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c7_p2206_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c7_p2206_s04.rec
- LAB: SEDM 
  REC: TRI  
 Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c9_p2206_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c9_p2206_s01.rec
  LAB: DEVET 
@@ -73,31 +52,28 @@ Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c9_p2206_s02.lab 
 Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c9_p2206_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c9_p2206_s03.rec
  LAB: DEVET 
  REC: PET   
-Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c9_p2206_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SD/p2206/c9_p2206_s05.rec
- LAB: DEVET 
- REC: PET   
 ====================== HTK Results Analysis =======================
-  Date: Sun Oct 16 13:30:41 2022
+  Date: Sun Oct 16 14:51:42 2022
   Ref : SD_reference.mlf
   Rec : SD_SD_results.mlf
 ------------------------ Overall Results --------------------------
-SENT: %Correct=48.00 [H=24, S=26, N=50]
-WORD: %Corr=48.00, Acc=48.00 [H=24, D=0, S=26, I=0, N=50]
+SENT: %Correct=64.00 [H=32, S=18, N=50]
+WORD: %Corr=64.00, Acc=64.00 [H=32, D=0, S=18, I=0, N=50]
 ------------------------ Confusion Matrix -------------------------
-       C   D   O   P   S   S   T 
-       T   E   S   E   E   E   R 
-       Y   V   M   T   D   S   I 
-       R   E           M   T     
-       I   T                      Del [ %c / %e]
-CTYR   4   0   0   0   0   0   1    0 [80.0/2.0]
-DEVE   0   1   0   4   0   0   0    0 [20.0/8.0]
- DVA   0   2   0   3   0   0   0    0 [ 0.0/10.0]
-JEDN   0   0   0   5   0   0   0    0 [ 0.0/10.0]
-NULA   0   0   0   5   0   0   0    0 [ 0.0/10.0]
- OSM   0   0   5   0   0   0   0    0
- PET   0   0   0   5   0   0   0    0
-SEDM   0   0   0   0   3   0   2    0 [60.0/4.0]
-SEST   0   0   0   3   0   1   1    0 [20.0/8.0]
- TRI   0   0   0   0   0   0   5    0
-Ins    0   0   0   0   0   0   0
+       C   D   N   O   P   S   S   T 
+       T   E   U   S   E   E   E   R 
+       Y   V   L   M   T   D   S   I 
+       R   E   A           M   T     
+       I   T                          Del [ %c / %e]
+CTYR   5   0   0   0   0   0   0   0    0
+DEVE   0   2   0   0   3   0   0   0    0 [40.0/6.0]
+ DVA   0   2   0   0   2   0   0   1    0 [ 0.0/10.0]
+JEDN   0   1   0   0   4   0   0   0    0 [ 0.0/10.0]
+NULA   0   0   1   0   4   0   0   0    0 [20.0/8.0]
+ OSM   0   0   0   5   0   0   0   0    0
+ PET   0   0   0   0   5   0   0   0    0
+SEDM   0   0   0   0   0   5   0   0    0
+SEST   0   0   0   0   0   0   4   1    0 [80.0/2.0]
+ TRI   0   0   0   0   0   0   0   5    0
+Ins    0   0   0   0   0   0   0   0
 ===================================================================

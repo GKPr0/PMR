@@ -6,7 +6,7 @@ if __name__ == "__main__":
     test_data_root = "..\\data\\Test\\Cislovky\\SI"
 
     model_root = "SI_Experiment"
-    model_iteration = 6
+    model_iteration = 20
     reference_mlf_file = "SI_reference.mlf"
     result_mlf_file = "SI_SI_results.mlf"
     result_file = "SI_on_SI_results.txt"
@@ -24,7 +24,7 @@ if __name__ == "__main__":
     generate_scp_file(test_data_root, scp_test_file)
 
     test_model(model_root,
-               model_iteration=6,
+               model_iteration=model_iteration,
                result_mlf_file=result_mlf_file,
                test_scp_file=scp_test_file,
                wordnet_file=wordnet_file,
