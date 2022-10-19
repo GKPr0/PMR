@@ -27,33 +27,18 @@ def g2p(text, rule_file):
 
 if __name__ == "__main__":
 
-    text_file = "data\\Vety.txt"
-    phonem_file = "data\\VetyFonemy.txt"
+    text_file = "data\\Test\\Jmena\\SeznamJmen.txt"
+    phonem_file = "data\\Test\\Jmena\\SeznamJmen.phn"
+    encoding = "cp1250"
 
-    phonems_count = defaultdict(int)
     phonems = []
 
-    with open(text_file, mode="r", encoding="utf8") as f:
+    with open(text_file, mode="r", encoding=encoding) as f:
         for line in f.readlines():
-            number, text = line.split(maxsplit=1)
-            text = text.replace("\n", "")
+            text = line.replace("\n", "")
 
             phonem_text = g2p(text, rule_file="mapping.json")
-            phonem_text = f"-{phonem_text}-"
-            phonems.append(f"{number} {phonem_text}\n")
+            phonems.append(f"-{phonem_text}-\n")
 
-            for char in phonem_text:
-                phonems_count[char] += 1
-
-            print(number)
-            print(f"Original: {text}")
-            print(f"Phonem: {phonem_text}\n")
-
-    phonems_count = {k: v for k, v in sorted(phonems_count.items(), key=lambda item: item[1])}
-    print(f"Phonem count {len(phonems_count.values())}")
-    for phonem, count in phonems_count.items():
-        print(f"{phonem}:{count}")
-
-    with open(phonem_file, mode="w", encoding="utf8") as f:
+    with open(phonem_file, mode="w", encoding=encoding) as f:
         f.writelines(phonems)
-

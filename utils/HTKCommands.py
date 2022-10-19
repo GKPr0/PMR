@@ -83,9 +83,12 @@ def generate_report(report_file: str,
 
 
 def __run(cmd: str, verbose: bool = True):
-    result = subprocess.run(cmd.split(), capture_output=True, text=True).stdout
+    result = subprocess.run(cmd.split(), capture_output=True, text=True)
+
+    if len(result.stderr) > 0:
+        print(result.stderr)
 
     if verbose:
-        print(result)
+        print(result.stdout)
 
-    return result
+    return result.stdout

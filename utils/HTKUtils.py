@@ -3,7 +3,8 @@ from pathlib import Path
 from utils import resources, HTKParamTypes, prototypes
 
 
-def generate_wav_list_file(search_root: str, list_file: str):
+def generate_wav_list_file(search_root: str,
+                           list_file: str):
     wav_files = list(Path(search_root).glob("**/*.wav"))
     wav_paths = [get_unix_style_full_path(wav) + '\n' for wav in wav_files]
 
@@ -46,7 +47,8 @@ def generate_lab_from_txt(search_root: str):
                 lab_f.writelines(f"{content}\n")
 
 
-def generate_mlf_file_for_lab_files(search_root: str, mlf_file: str):
+def generate_mlf_file_for_lab_files(search_root: str,
+                                    mlf_file: str):
     lab_files = list(Path(search_root).glob("**/*.lab"))
 
     with open(mlf_file, mode="w") as mfl_f:
@@ -102,7 +104,7 @@ def generate_phonem_models0_file(models0_file: str,
     alphabet_dict = load_alphabet_dictionary(alphabet)
 
     with open(models0_file, mode="w") as f:
-        for htk_phonem in alphabet_dict.values():
+        for htk_phonem in set(alphabet_dict.values()):
             f.write(f"{htk_phonem}\n")
 
 

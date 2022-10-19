@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 
 if __name__ == "__main__":
     in_file = "data\\VetyFonemyOpraveno.txt"
@@ -21,3 +22,7 @@ if __name__ == "__main__":
 
             with open(output_file_path, mode="w", encoding="cp1250") as out_f:
                 out_f.write(phonem)
+
+
+
+Path(in_file).with_name()
