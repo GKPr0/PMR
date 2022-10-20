@@ -6,9 +6,23 @@ class HTKParamTypes(str, Enum):
     MFC = "mfc"
 
 
+defaults = {
+    "dict": "dict",
+    "dlog": "dlog",
+    "wordnet": "wordnet",
+    "models0": "models0",
+    "models0_phonem": "models0_phonems",
+    "test_scp": "test.scp",
+    "train_scp": "train.scp",
+    "test_param_list": "test_param.list",
+    "train_param_list": "train_param.list",
+    "reference_mlf": "reference.mlf",
+    "train_mlf": "train.mlf"
+}
+
 resources = {
     "alphabet": pathlib.Path(__file__).parent / "resources\\alphabet48-CZ.abc",
-
+    "comXmix": pathlib.Path(__file__).parent / "resources\\comXmix",
 }
 
 prototypes = {
@@ -22,6 +36,8 @@ param_configs = {
 train_configs = {
     HTKParamTypes.MFC: pathlib.Path(__file__).parent / "resources\\TrainConfig-MFCC12_0_D_A",
 }
+
+
 
 
 

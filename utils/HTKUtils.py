@@ -108,6 +108,15 @@ def generate_phonem_models0_file(models0_file: str,
             f.write(f"{htk_phonem}\n")
 
 
+def generate_mixture_recipe_file(mixture_recipe_file: str, mixture_count: int):
+    with open(resources["comXmix"], mode="r") as template_file:
+        mixture_recipe_template = template_file.read()
+
+    mixture_recipe = mixture_recipe_template.replace("X", str(mixture_count))
+    with open(mixture_recipe_file, mode="w") as f:
+        f.write(mixture_recipe)
+
+
 def load_alphabet_dictionary(file):
     convert_dict = {}
     with open(file, mode="r", encoding="ansi") as f:

@@ -1,0 +1,60 @@
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MFR/003.lab vs D:/VsTulPMR/data/Test/Jmena/MFR/003.rec
+ LAB: CYRIL 
+ REC: QUIDO 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MFR/007.lab vs D:/VsTulPMR/data/Test/Jmena/MFR/007.rec
+ LAB: GUSTAV 
+ REC: BOZENA 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MPS/024.lab vs D:/VsTulPMR/data/Test/Jmena/MPS/024.rec
+ LAB: ZUZANA 
+ REC: BOZENA 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MVS/007.lab vs D:/VsTulPMR/data/Test/Jmena/MVS/007.rec
+ LAB: GUSTAV 
+ REC: BOZENA 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZJS/003.lab vs D:/VsTulPMR/data/Test/Jmena/ZJS/003.rec
+ LAB: CYRIL 
+ REC: KAREL 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZJS/015.lab vs D:/VsTulPMR/data/Test/Jmena/ZJS/015.rec
+ LAB: OTO  
+ REC: ADAM 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZVR/015.lab vs D:/VsTulPMR/data/Test/Jmena/ZVR/015.rec
+ LAB: OTO  
+ REC: ADAM 
+====================== HTK Results Analysis =======================
+  Date: Thu Oct 20 22:04:34 2022
+  Ref : reference.mlf
+  Rec : multi_32_names_results.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.35 [H=185, S=7, N=192]
+WORD: %Corr=96.35, Acc=96.35 [H=185, D=0, S=7, I=0, N=192]
+------------------------ Confusion Matrix -------------------------
+       A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   X   Z 
+       D   O   Y   A   M   R   U   E   V   O   A   U   A   O   T   E   U   U   V   O   R   A   A   U 
+       A   Z   R   V   I   A   S   L   A   S   R   D   R   R   O   T   I   D   A   M   B   C   V   Z 
+       M   E   I   I   L   N   T   E   N   E   E   V   I   B       R   D   O   T   A   A   L   E   A 
+           N   L   D       T   A   N       F   L   I   E   E           O   L   O   S   N   A   R   N  Del [ %c / %e]
+ADAM   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+BOZE   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+CYRI   0   0   6   0   0   0   0   0   0   0   1   0   0   0   0   0   1   0   0   0   0   0   0   0    0 [75.0/1.0]
+DAVI   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+EMIL   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+FRAN   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+GUST   0   2   0   0   0   0   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0 [75.0/1.0]
+HELE   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+IVAN   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+JOSE   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+KARE   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+LUDV   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0    0
+MARI   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0    0
+NORB   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0    0
+ OTO   2   0   0   0   0   0   0   0   0   0   0   0   0   0   6   0   0   0   0   0   0   0   0   0    0 [75.0/1.0]
+PETR   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0    0
+QUID   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0    0
+RUDO   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0    0
+SVAT   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0    0
+TOMA   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0    0
+URBA   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0    0
+VACL   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0    0
+XAVE   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0    0
+ZUZA   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   7    0 [87.5/0.5]
+Ins    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+===================================================================

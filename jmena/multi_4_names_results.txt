@@ -1,0 +1,78 @@
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MFC/005.lab vs D:/VsTulPMR/data/Test/Jmena/MFC/005.rec
+ LAB: EMIL  
+ REC: KAREL 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MFC/024.lab vs D:/VsTulPMR/data/Test/Jmena/MFC/024.rec
+ LAB: ZUZANA 
+ REC: BOZENA 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MFR/003.lab vs D:/VsTulPMR/data/Test/Jmena/MFR/003.rec
+ LAB: CYRIL 
+ REC: QUIDO 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MPS/003.lab vs D:/VsTulPMR/data/Test/Jmena/MPS/003.rec
+ LAB: CYRIL 
+ REC: JOSEF 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MPS/023.lab vs D:/VsTulPMR/data/Test/Jmena/MPS/023.rec
+ LAB: XAVER  
+ REC: HELENA 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MPS/024.lab vs D:/VsTulPMR/data/Test/Jmena/MPS/024.rec
+ LAB: ZUZANA 
+ REC: BOZENA 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MVS/003.lab vs D:/VsTulPMR/data/Test/Jmena/MVS/003.rec
+ LAB: CYRIL 
+ REC: KAREL 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MVS/007.lab vs D:/VsTulPMR/data/Test/Jmena/MVS/007.rec
+ LAB: GUSTAV 
+ REC: BOZENA 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MWW/024.lab vs D:/VsTulPMR/data/Test/Jmena/MWW/024.rec
+ LAB: ZUZANA 
+ REC: IVAN   
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZJS/003.lab vs D:/VsTulPMR/data/Test/Jmena/ZJS/003.rec
+ LAB: CYRIL 
+ REC: EMIL  
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZJS/015.lab vs D:/VsTulPMR/data/Test/Jmena/ZJS/015.rec
+ LAB: OTO  
+ REC: ADAM 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZKF/010.lab vs D:/VsTulPMR/data/Test/Jmena/ZKF/010.rec
+ LAB: JOSEF 
+ REC: IVAN  
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZVR/023.lab vs D:/VsTulPMR/data/Test/Jmena/ZVR/023.rec
+ LAB: XAVER 
+ REC: DAVID 
+====================== HTK Results Analysis =======================
+  Date: Thu Oct 20 22:04:09 2022
+  Ref : reference.mlf
+  Rec : multi_4_names_results.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=93.23 [H=179, S=13, N=192]
+WORD: %Corr=93.23, Acc=93.23 [H=179, D=0, S=13, I=0, N=192]
+------------------------ Confusion Matrix -------------------------
+       A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   X   Z 
+       D   O   Y   A   M   R   U   E   V   O   A   U   A   O   T   E   U   U   V   O   R   A   A   U 
+       A   Z   R   V   I   A   S   L   A   S   R   D   R   R   O   T   I   D   A   M   B   C   V   Z 
+       M   E   I   I   L   N   T   E   N   E   E   V   I   B       R   D   O   T   A   A   L   E   A 
+           N   L   D       T   A   N       F   L   I   E   E           O   L   O   S   N   A   R   N  Del [ %c / %e]
+ADAM   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+BOZE   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+CYRI   0   0   4   0   1   0   0   0   0   1   1   0   0   0   0   0   1   0   0   0   0   0   0   0    0 [50.0/2.1]
+DAVI   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+EMIL   0   0   0   0   7   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0    0 [87.5/0.5]
+FRAN   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+GUST   0   1   0   0   0   0   7   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0 [87.5/0.5]
+HELE   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+IVAN   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+JOSE   0   0   0   0   0   0   0   0   1   7   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0 [87.5/0.5]
+KARE   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+LUDV   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0    0
+MARI   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0    0
+NORB   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0    0
+ OTO   1   0   0   0   0   0   0   0   0   0   0   0   0   0   7   0   0   0   0   0   0   0   0   0    0 [87.5/0.5]
+PETR   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0    0
+QUID   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0    0
+RUDO   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0    0
+SVAT   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0    0
+TOMA   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0    0
+URBA   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0    0
+VACL   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0    0
+XAVE   0   0   0   1   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   6   0    0 [75.0/1.0]
+ZUZA   0   2   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   5    0 [62.5/1.6]
+Ins    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+===================================================================

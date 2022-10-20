@@ -1,20 +1,19 @@
 import subprocess
 from pathlib import Path
-
-from utils import resources, HTKParamTypes, train_configs, param_configs, prototypes
+from utils import defaults, HTKParamTypes, train_configs, param_configs, prototypes
 
 
 def generate_wordnet(grammar_file: str,
-                     wordnet_file: str = "wordnet"):
+                     wordnet_file: str = defaults["wordnet"]):
     cmd = f"HParse {grammar_file} {wordnet_file}"
     __run(cmd)
 
 
 def generate_dictionary(wlist_file: str,
                         lexicon_file: str,
-                        models0_file: str = "models0",
-                        dlog_file: str = "dlog",
-                        dict_file: str = "dict"):
+                        models0_file: str = defaults["models0"],
+                        dlog_file: str = defaults["dlog"],
+                        dict_file: str = defaults["dict"]):
     cmd = f"HDMan -m -w {wlist_file} -n {models0_file} -l {dlog_file} {dict_file} {lexicon_file}"
     __run(cmd)
 
@@ -37,12 +36,21 @@ def compute_variance(scp_file: str,
     return str(target_folder / Path(model_prototype_file).name)
 
 
+def split_model_to_mixtures(model_def_file: str, target_folder: str, mixture_recipe: str,
+                            phonem_models0_file: str = defaults["models0_phonem"]):
+    target_path = Path(target_folder)
+    target_path.mkdir(parents=True, exist_ok=True)
+
+    cmd = f"HHed -H {model_def_file} -M {target_folder} {mixture_recipe} {phonem_models0_file}"
+    __run(cmd)
+
+
 def train_model(target_folder: str,
                 iter_count: int,
-                train_mlf_file: str,
-                train_scp_file: str,
-                models0_file: str,
-                train_config_file: str = train_configs[HTKParamTypes.MFC]):
+                train_mlf_file: str = defaults["train_mlf"],
+                train_scp_file: str = defaults["train_scp"],
+                models0_file: str = defaults["models0_phonem"],
+                train_config_file: str = train_configs[HTKParamTypes.MFC]) -> str:
     target_path = Path(target_folder)
 
     for i in range(iter_count):
@@ -55,14 +63,17 @@ def train_model(target_folder: str,
               f"-M {next_hmm_folder} {models0_file}"
         __run(cmd)
 
+    final_model_file = str(target_path / f"hmm{iter_count}" / "hmmdefs")
+    return final_model_file
+
 
 def test_model(model_folder: str,
                model_iteration: int,
                result_mlf_file: str,
-               test_scp_file: str,
-               wordnet_file: str,
-               dict_file: str,
-               models0_file: str):
+               test_scp_file: str = defaults["test_scp"],
+               wordnet_file: str = defaults["wordnet"],
+               dict_file: str = defaults["dict"],
+               models0_file: str = defaults["models0_phonem"]):
     model_def_path = Path(model_folder) / f"hmm{model_iteration}" / "hmmdefs"
 
     cmd = f"HVite -H {model_def_path} -S {test_scp_file} -i {result_mlf_file} " \
@@ -71,11 +82,12 @@ def test_model(model_folder: str,
 
 
 def generate_report(report_file: str,
-                    result_mlf_file: str,
-                    reference_mlf_file: str,
                     wlist: str,
+                    result_mlf_file: str,
+                    reference_mlf_file: str = defaults["reference_mlf"],
                     confusion_matrix: bool = False):
-    cmd = f"HResults -e ??? SENT-START -e ??? SENT-END {'-p' if confusion_matrix else ''} -t -I {reference_mlf_file} {wlist} {result_mlf_file}"
+    cmd = f"HResults -e ??? SENT-START -e ??? SENT-END {'-p' if confusion_matrix else ''} -t -I {reference_mlf_file}" \
+          f" {wlist} {result_mlf_file}"
     result = __run(cmd)
 
     with open(report_file, mode="w") as f:

@@ -1,0 +1,150 @@
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MFC/005.lab vs D:/VsTulPMR/data/Test/Jmena/MFC/005.rec
+ LAB: EMIL  
+ REC: KAREL 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MFC/009.lab vs D:/VsTulPMR/data/Test/Jmena/MFC/009.rec
+ LAB: IVAN  
+ REC: CYRIL 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MFC/018.lab vs D:/VsTulPMR/data/Test/Jmena/MFC/018.rec
+ LAB: RUDOLF 
+ REC: KAREL  
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MFC/021.lab vs D:/VsTulPMR/data/Test/Jmena/MFC/021.rec
+ LAB: URBAN 
+ REC: TOMAS 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MFC/023.lab vs D:/VsTulPMR/data/Test/Jmena/MFC/023.rec
+ LAB: XAVER 
+ REC: TOMAS 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MFR/003.lab vs D:/VsTulPMR/data/Test/Jmena/MFR/003.rec
+ LAB: CYRIL 
+ REC: KAREL 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MFR/005.lab vs D:/VsTulPMR/data/Test/Jmena/MFR/005.rec
+ LAB: EMIL  
+ REC: KAREL 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MFR/009.lab vs D:/VsTulPMR/data/Test/Jmena/MFR/009.rec
+ LAB: IVAN  
+ REC: CYRIL 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MFR/023.lab vs D:/VsTulPMR/data/Test/Jmena/MFR/023.rec
+ LAB: XAVER 
+ REC: TOMAS 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MFR/024.lab vs D:/VsTulPMR/data/Test/Jmena/MFR/024.rec
+ LAB: ZUZANA 
+ REC: IVAN   
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MPS/003.lab vs D:/VsTulPMR/data/Test/Jmena/MPS/003.rec
+ LAB: CYRIL 
+ REC: MARIE 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MPS/005.lab vs D:/VsTulPMR/data/Test/Jmena/MPS/005.rec
+ LAB: EMIL  
+ REC: KAREL 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MPS/009.lab vs D:/VsTulPMR/data/Test/Jmena/MPS/009.rec
+ LAB: IVAN  
+ REC: CYRIL 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MPS/018.lab vs D:/VsTulPMR/data/Test/Jmena/MPS/018.rec
+ LAB: RUDOLF 
+ REC: TOMAS  
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MPS/023.lab vs D:/VsTulPMR/data/Test/Jmena/MPS/023.rec
+ LAB: XAVER 
+ REC: KAREL 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MPS/024.lab vs D:/VsTulPMR/data/Test/Jmena/MPS/024.rec
+ LAB: ZUZANA 
+ REC: TOMAS  
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MVS/005.lab vs D:/VsTulPMR/data/Test/Jmena/MVS/005.rec
+ LAB: EMIL  
+ REC: KAREL 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MVS/008.lab vs D:/VsTulPMR/data/Test/Jmena/MVS/008.rec
+ LAB: HELENA 
+ REC: KAREL  
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MVS/009.lab vs D:/VsTulPMR/data/Test/Jmena/MVS/009.rec
+ LAB: IVAN  
+ REC: CYRIL 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MWW/005.lab vs D:/VsTulPMR/data/Test/Jmena/MWW/005.rec
+ LAB: EMIL  
+ REC: TOMAS 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MWW/009.lab vs D:/VsTulPMR/data/Test/Jmena/MWW/009.rec
+ LAB: IVAN  
+ REC: CYRIL 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MWW/018.lab vs D:/VsTulPMR/data/Test/Jmena/MWW/018.rec
+ LAB: RUDOLF 
+ REC: KAREL  
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/MWW/024.lab vs D:/VsTulPMR/data/Test/Jmena/MWW/024.rec
+ LAB: ZUZANA 
+ REC: HELENA 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZJS/003.lab vs D:/VsTulPMR/data/Test/Jmena/ZJS/003.rec
+ LAB: CYRIL 
+ REC: MARIE 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZJS/005.lab vs D:/VsTulPMR/data/Test/Jmena/ZJS/005.rec
+ LAB: EMIL  
+ REC: KAREL 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZJS/008.lab vs D:/VsTulPMR/data/Test/Jmena/ZJS/008.rec
+ LAB: HELENA 
+ REC: ADAM   
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZJS/009.lab vs D:/VsTulPMR/data/Test/Jmena/ZJS/009.rec
+ LAB: IVAN  
+ REC: TOMAS 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZJS/015.lab vs D:/VsTulPMR/data/Test/Jmena/ZJS/015.rec
+ LAB: OTO  
+ REC: ADAM 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZKF/005.lab vs D:/VsTulPMR/data/Test/Jmena/ZKF/005.rec
+ LAB: EMIL  
+ REC: TOMAS 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZKF/008.lab vs D:/VsTulPMR/data/Test/Jmena/ZKF/008.rec
+ LAB: HELENA 
+ REC: KAREL  
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZKF/021.lab vs D:/VsTulPMR/data/Test/Jmena/ZKF/021.rec
+ LAB: URBAN 
+ REC: TOMAS 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZVR/003.lab vs D:/VsTulPMR/data/Test/Jmena/ZVR/003.rec
+ LAB: CYRIL 
+ REC: QUIDO 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZVR/005.lab vs D:/VsTulPMR/data/Test/Jmena/ZVR/005.rec
+ LAB: EMIL  
+ REC: KAREL 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZVR/008.lab vs D:/VsTulPMR/data/Test/Jmena/ZVR/008.rec
+ LAB: HELENA 
+ REC: ADAM   
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZVR/009.lab vs D:/VsTulPMR/data/Test/Jmena/ZVR/009.rec
+ LAB: IVAN 
+ REC: ADAM 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZVR/015.lab vs D:/VsTulPMR/data/Test/Jmena/ZVR/015.rec
+ LAB: OTO  
+ REC: PETR 
+Aligned transcription: D:/VsTulPMR/data/Test/Jmena/ZVR/023.lab vs D:/VsTulPMR/data/Test/Jmena/ZVR/023.rec
+ LAB: XAVER 
+ REC: DAVID 
+====================== HTK Results Analysis =======================
+  Date: Thu Oct 20 22:04:01 2022
+  Ref : reference.mlf
+  Rec : mono_names_results.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=80.73 [H=155, S=37, N=192]
+WORD: %Corr=80.73, Acc=80.73 [H=155, D=0, S=37, I=0, N=192]
+------------------------ Confusion Matrix -------------------------
+       A   B   C   D   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   X   Z 
+       D   O   Y   A   R   U   E   V   O   A   U   A   O   T   E   U   U   V   O   R   A   A   U 
+       A   Z   R   V   A   S   L   A   S   R   D   R   R   O   T   I   D   A   M   B   C   V   Z 
+       M   E   I   I   N   T   E   N   E   E   V   I   B       R   D   O   T   A   A   L   E   A 
+           N   L   D   T   A   N       F   L   I   E   E           O   L   O   S   N   A   R   N  Del [ %c / %e]
+ADAM   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+BOZE   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+CYRI   0   0   4   0   0   0   0   0   0   1   0   2   0   0   0   1   0   0   0   0   0   0   0    0 [50.0/2.1]
+DAVI   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+EMIL   0   0   0   0   0   0   0   0   0   6   0   0   0   0   0   0   0   0   2   0   0   0   0    0 [ 0.0/4.2]
+FRAN   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+GUST   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+HELE   2   0   0   0   0   0   4   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0    0 [50.0/2.1]
+IVAN   1   0   5   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    0 [12.5/3.6]
+JOSE   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+KARE   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+LUDV   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0    0
+MARI   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0    0
+NORB   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0    0
+ OTO   1   0   0   0   0   0   0   0   0   0   0   0   0   6   1   0   0   0   0   0   0   0   0    0 [75.0/1.0]
+PETR   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0    0
+QUID   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0    0
+RUDO   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   5   0   1   0   0   0   0    0 [62.5/1.6]
+SVAT   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0   0    0
+TOMA   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0   0   0    0
+URBA   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   6   0   0   0    0 [75.0/1.0]
+VACL   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8   0   0    0
+XAVE   0   0   0   1   0   0   0   0   0   1   0   0   0   0   0   0   0   0   2   0   0   4   0    0 [50.0/2.1]
+ZUZA   0   0   0   0   0   0   1   1   0   0   0   0   0   0   0   0   0   0   1   0   0   0   5    0 [62.5/1.6]
+Ins    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+===================================================================

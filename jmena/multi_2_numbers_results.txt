@@ -1,0 +1,367 @@
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0030/c2_p0030_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0030/c2_p0030_s02.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0030/c2_p0030_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0030/c2_p0030_s04.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0030/c2_p0030_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0030/c2_p0030_s05.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0030/c9_p0030_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0030/c9_p0030_s03.rec
+ LAB: DEVET 
+ REC: CTYRI 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0031/c9_p0031_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0031/c9_p0031_s03.rec
+ LAB: DEVET 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0031/c9_p0031_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0031/c9_p0031_s04.rec
+ LAB: DEVET 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0032/c0_p0032_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0032/c0_p0032_s03.rec
+ LAB: NULA  
+ REC: JEDNA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0032/c3_p0032_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0032/c3_p0032_s03.rec
+ LAB: TRI  
+ REC: SEDM 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0032/c3_p0032_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0032/c3_p0032_s05.rec
+ LAB: TRI  
+ REC: SEDM 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0034/c2_p0034_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0034/c2_p0034_s01.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0034/c2_p0034_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0034/c2_p0034_s02.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0034/c2_p0034_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0034/c2_p0034_s03.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0034/c2_p0034_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0034/c2_p0034_s04.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0034/c2_p0034_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0034/c2_p0034_s05.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0034/c9_p0034_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0034/c9_p0034_s04.rec
+ LAB: DEVET 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0035/c1_p0035_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0035/c1_p0035_s02.rec
+ LAB: JEDNA 
+ REC: NULA  
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0036/c2_p0036_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0036/c2_p0036_s04.rec
+ LAB: DVA   
+ REC: JEDNA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0037/c3_p0037_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0037/c3_p0037_s03.rec
+ LAB: TRI 
+ REC: DVA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0037/c3_p0037_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0037/c3_p0037_s05.rec
+ LAB: TRI 
+ REC: OSM 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0037/c9_p0037_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0037/c9_p0037_s05.rec
+ LAB: DEVET 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0038/c1_p0038_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0038/c1_p0038_s05.rec
+ LAB: JEDNA 
+ REC: NULA  
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0038/c2_p0038_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0038/c2_p0038_s04.rec
+ LAB: DVA   
+ REC: JEDNA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0038/c3_p0038_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0038/c3_p0038_s04.rec
+ LAB: TRI 
+ REC: OSM 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0038/c3_p0038_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0038/c3_p0038_s05.rec
+ LAB: TRI 
+ REC: OSM 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0038/c4_p0038_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0038/c4_p0038_s05.rec
+ LAB: CTYRI 
+ REC: SEDM  
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0038/c5_p0038_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0038/c5_p0038_s05.rec
+ LAB: PET  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0038/c9_p0038_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0038/c9_p0038_s03.rec
+ LAB: DEVET 
+ REC: JEDNA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0039/c2_p0039_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0039/c2_p0039_s02.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0039/c2_p0039_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0039/c2_p0039_s03.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0039/c2_p0039_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0039/c2_p0039_s04.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0039/c2_p0039_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0039/c2_p0039_s05.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0039/c9_p0039_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0039/c9_p0039_s02.rec
+ LAB: DEVET 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0039/c9_p0039_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0039/c9_p0039_s03.rec
+ LAB: DEVET 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0039/c9_p0039_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0039/c9_p0039_s04.rec
+ LAB: DEVET 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0040/c8_p0040_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0040/c8_p0040_s03.rec
+ LAB: OSM  
+ REC: SEDM 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0040/c9_p0040_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0040/c9_p0040_s02.rec
+ LAB: DEVET 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0040/c9_p0040_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0040/c9_p0040_s05.rec
+ LAB: DEVET 
+ REC: DVA   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0041/c2_p0041_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0041/c2_p0041_s05.rec
+ LAB: DVA   
+ REC: JEDNA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0041/c9_p0041_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0041/c9_p0041_s03.rec
+ LAB: DEVET 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0042/c2_p0042_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0042/c2_p0042_s01.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0042/c2_p0042_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0042/c2_p0042_s03.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0042/c2_p0042_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0042/c2_p0042_s04.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0042/c2_p0042_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0042/c2_p0042_s05.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0042/c9_p0042_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0042/c9_p0042_s02.rec
+ LAB: DEVET 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0043/c2_p0043_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0043/c2_p0043_s01.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0043/c2_p0043_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0043/c2_p0043_s03.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0043/c2_p0043_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0043/c2_p0043_s04.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0043/c2_p0043_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0043/c2_p0043_s05.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0043/c3_p0043_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0043/c3_p0043_s05.rec
+ LAB: TRI 
+ REC: PET 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0043/c9_p0043_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0043/c9_p0043_s01.rec
+ LAB: DEVET 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0043/c9_p0043_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0043/c9_p0043_s02.rec
+ LAB: DEVET 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0043/c9_p0043_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0043/c9_p0043_s04.rec
+ LAB: DEVET 
+ REC: JEDNA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0043/c9_p0043_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0043/c9_p0043_s05.rec
+ LAB: DEVET 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c1_p0044_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c1_p0044_s01.rec
+ LAB: JEDNA 
+ REC: NULA  
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c1_p0044_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c1_p0044_s02.rec
+ LAB: JEDNA 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c2_p0044_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c2_p0044_s01.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c2_p0044_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c2_p0044_s02.rec
+ LAB: DVA   
+ REC: JEDNA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c2_p0044_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c2_p0044_s04.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c2_p0044_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c2_p0044_s05.rec
+ LAB: DVA   
+ REC: JEDNA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c3_p0044_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c3_p0044_s05.rec
+ LAB: TRI 
+ REC: OSM 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c5_p0044_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c5_p0044_s02.rec
+ LAB: PET 
+ REC: OSM 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c5_p0044_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c5_p0044_s03.rec
+ LAB: PET   
+ REC: JEDNA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c5_p0044_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c5_p0044_s05.rec
+ LAB: PET  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c6_p0044_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c6_p0044_s01.rec
+ LAB: SEST 
+ REC: SEDM 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c6_p0044_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c6_p0044_s02.rec
+ LAB: SEST  
+ REC: CTYRI 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c6_p0044_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c6_p0044_s03.rec
+ LAB: SEST 
+ REC: SEDM 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c9_p0044_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c9_p0044_s02.rec
+ LAB: DEVET 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c9_p0044_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c9_p0044_s04.rec
+ LAB: DEVET 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c9_p0044_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0044/c9_p0044_s05.rec
+ LAB: DEVET 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c0_p0045_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c0_p0045_s01.rec
+ LAB: NULA 
+ REC: DVA  
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c0_p0045_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c0_p0045_s04.rec
+ LAB: NULA 
+ REC: DVA  
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c1_p0045_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c1_p0045_s03.rec
+ LAB: JEDNA 
+ REC: NULA  
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c1_p0045_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c1_p0045_s04.rec
+ LAB: JEDNA 
+ REC: NULA  
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c1_p0045_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c1_p0045_s05.rec
+ LAB: JEDNA 
+ REC: NULA  
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c2_p0045_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c2_p0045_s01.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c2_p0045_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c2_p0045_s03.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c2_p0045_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c2_p0045_s04.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c2_p0045_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c2_p0045_s05.rec
+ LAB: DVA   
+ REC: JEDNA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c3_p0045_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c3_p0045_s01.rec
+ LAB: TRI  
+ REC: SEDM 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c6_p0045_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c6_p0045_s01.rec
+ LAB: SEST 
+ REC: SEDM 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c6_p0045_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c6_p0045_s04.rec
+ LAB: SEST 
+ REC: SEDM 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c7_p0045_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c7_p0045_s05.rec
+ LAB: SEDM 
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c9_p0045_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0045/c9_p0045_s03.rec
+ LAB: DEVET 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0046/c0_p0046_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0046/c0_p0046_s02.rec
+ LAB: NULA 
+ REC: DVA  
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0046/c2_p0046_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0046/c2_p0046_s01.rec
+ LAB: DVA   
+ REC: DEVET 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0046/c2_p0046_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0046/c2_p0046_s03.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0046/c2_p0046_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0046/c2_p0046_s04.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0046/c3_p0046_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0046/c3_p0046_s02.rec
+ LAB: TRI 
+ REC: PET 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0046/c3_p0046_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0046/c3_p0046_s03.rec
+ LAB: TRI 
+ REC: PET 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0046/c3_p0046_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0046/c3_p0046_s04.rec
+ LAB: TRI 
+ REC: PET 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0046/c4_p0046_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0046/c4_p0046_s02.rec
+ LAB: CTYRI 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0046/c8_p0046_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0046/c8_p0046_s02.rec
+ LAB: OSM  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0047/c2_p0047_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0047/c2_p0047_s01.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0047/c2_p0047_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0047/c2_p0047_s02.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0047/c2_p0047_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0047/c2_p0047_s03.rec
+ LAB: DVA  
+ REC: NULA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0047/c2_p0047_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0047/c2_p0047_s05.rec
+ LAB: DVA   
+ REC: DEVET 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0047/c6_p0047_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0047/c6_p0047_s04.rec
+ LAB: SEST 
+ REC: TRI  
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c0_p0048_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c0_p0048_s01.rec
+ LAB: NULA 
+ REC: PET  
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c0_p0048_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c0_p0048_s02.rec
+ LAB: NULA 
+ REC: PET  
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c0_p0048_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c0_p0048_s03.rec
+ LAB: NULA 
+ REC: PET  
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c0_p0048_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c0_p0048_s04.rec
+ LAB: NULA 
+ REC: PET  
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c0_p0048_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c0_p0048_s05.rec
+ LAB: NULA 
+ REC: PET  
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c1_p0048_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c1_p0048_s01.rec
+ LAB: JEDNA 
+ REC: DEVET 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c1_p0048_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c1_p0048_s05.rec
+ LAB: JEDNA 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c2_p0048_s01.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c2_p0048_s01.rec
+ LAB: DVA   
+ REC: DEVET 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c2_p0048_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c2_p0048_s02.rec
+ LAB: DVA 
+ REC: PET 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c2_p0048_s03.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c2_p0048_s03.rec
+ LAB: DVA  
+ REC: SEDM 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c2_p0048_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c2_p0048_s04.rec
+ LAB: DVA 
+ REC: PET 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c2_p0048_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c2_p0048_s05.rec
+ LAB: DVA 
+ REC: PET 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c3_p0048_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c3_p0048_s05.rec
+ LAB: TRI 
+ REC: PET 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c9_p0048_s02.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0048/c9_p0048_s02.rec
+ LAB: DEVET 
+ REC: PET   
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0049/c2_p0049_s04.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0049/c2_p0049_s04.rec
+ LAB: DVA   
+ REC: JEDNA 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0049/c3_p0049_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0049/c3_p0049_s05.rec
+ LAB: TRI 
+ REC: OSM 
+Aligned transcription: D:/VsTulPMR/data/Test/Cislovky/SI/p0049/c6_p0049_s05.lab vs D:/VsTulPMR/data/Test/Cislovky/SI/p0049/c6_p0049_s05.rec
+ LAB: SEST 
+ REC: SEDM 
+====================== HTK Results Analysis =======================
+  Date: Thu Oct 20 22:04:39 2022
+  Ref : reference.mlf
+  Rec : multi_2_numbers_results.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=88.60 [H=886, S=114, N=1000]
+WORD: %Corr=88.60, Acc=88.60 [H=886, D=0, S=114, I=0, N=1000]
+------------------------ Confusion Matrix -------------------------
+       C   D   D   J   N   O   P   S   S   T 
+       T   E   V   E   U   S   E   E   E   R 
+       Y   V   A   D   L   M   T   D   S   I 
+       R   E       N   A           M   T     
+       I   T       A                          Del [ %c / %e]
+CTYR  98   0   0   0   0   0   1   1   0   0    0 [98.0/0.2]
+DEVE   1  78   1   2   0   0  18   0   0   0    0 [78.0/2.2]
+ DVA   0   3  56   7  30   0   3   1   0   0    0 [56.0/4.4]
+JEDN   0   1   0  91   6   0   2   0   0   0    0 [91.0/0.9]
+NULA   0   0   3   1  91   0   5   0   0   0    0 [91.0/0.9]
+ OSM   0   0   0   0   1  98   0   1   0   0    0 [98.0/0.2]
+ PET   0   0   0   1   2   1  96   0   0   0    0 [96.0/0.4]
+SEDM   0   0   0   0   1   0   0  99   0   0    0 [99.0/0.1]
+SEST   1   0   0   0   0   0   0   5  93   1    0 [93.0/0.7]
+ TRI   0   0   1   0   0   5   5   3   0  86    0 [86.0/1.4]
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
