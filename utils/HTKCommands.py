@@ -70,6 +70,8 @@ def train_model(target_folder: str,
 def test_model(model_folder: str,
                model_iteration: int,
                result_mlf_file: str,
+               p: float = 70.0,
+               s: float = 0,
                test_scp_file: str = defaults["test_scp"],
                wordnet_file: str = defaults["wordnet"],
                dict_file: str = defaults["dict"],
@@ -77,7 +79,7 @@ def test_model(model_folder: str,
     model_def_path = Path(model_folder) / f"hmm{model_iteration}" / "hmmdefs"
 
     cmd = f"HVite -H {model_def_path} -S {test_scp_file} -i {result_mlf_file} " \
-          f"-w {wordnet_file} -p 70.0 -s 0 {dict_file} {models0_file}"
+          f"-w {wordnet_file} -p {p} -s {s} {dict_file} {models0_file}"
     __run(cmd)
 
 
@@ -85,13 +87,15 @@ def generate_report(report_file: str,
                     wlist: str,
                     result_mlf_file: str,
                     reference_mlf_file: str = defaults["reference_mlf"],
-                    confusion_matrix: bool = False):
+                    confusion_matrix: bool = False) -> str:
     cmd = f"HResults -e ??? SENT-START -e ??? SENT-END {'-p' if confusion_matrix else ''} -t -I {reference_mlf_file}" \
           f" {wlist} {result_mlf_file}"
     result = __run(cmd)
 
     with open(report_file, mode="w") as f:
         f.write(result)
+
+    return result
 
 
 def __run(cmd: str, verbose: bool = True):

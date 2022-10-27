@@ -1,6 +1,8 @@
+import re
 from pathlib import Path
 
 from utils import resources, HTKParamTypes, prototypes
+from utils.ResultData import ResultData
 
 
 def generate_wav_list_file(search_root: str,
@@ -61,7 +63,7 @@ def generate_mlf_file_for_lab_files(search_root: str,
 
             mfl_f.write(f'"{lab_file_unix_path}"\n')
             mfl_f.write(lab_file_content)
-            mfl_f.write(".\n")
+            mfl_f.write("\n.\n")
 
 
 def generate_param_list_file(search_root: str, list_file: str, param_type: HTKParamTypes = HTKParamTypes.MFC):
@@ -130,3 +132,14 @@ def load_alphabet_dictionary(file):
 
 def get_unix_style_full_path(path: Path):
     return str(path.resolve()).replace("\\", "/")
+
+
+def parse_result(result: str):
+    try:
+        sent_correct = float(re.search('SENT: %Correct=(\d+\.\d+)', result).group(1))
+        word_correct = float(re.search('WORD: %Corr=(\d+\.\d+)', result).group(1))
+        word_accuracy = float(re.search('WORD: .* Acc=([-+]?\d+\.\d+)', result).group(1))
+        return ResultData(sent_correct, word_correct, word_accuracy)
+    except:
+        return ResultData(0, 0, 0)
+
