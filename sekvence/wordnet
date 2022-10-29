@@ -1,58 +1,77 @@
 VERSION=1.0
-N=17   L=39   
+N=25   L=50   
 I=0    W=SENT-END            
-I=1    W=SENT-END            
+I=1    W=NULA                
 I=2    W=!NULL               
-I=3    W=NULA                
-I=4    W=DEVET               
-I=5    W=OSM                 
-I=6    W=SEDM                
-I=7    W=SEST                
-I=8    W=PET                 
-I=9    W=CTYRI               
-I=10   W=TRI                 
-I=11   W=DVA                 
-I=12   W=JEDNA               
-I=13   W=SENT-START          
-I=14   W=!NULL               
-I=15   W=!NULL               
-I=16   W=!NULL               
+I=3    W=DEVET               
+I=4    W=OSM                 
+I=5    W=SEDM                
+I=6    W=SEST                
+I=7    W=PET                 
+I=8    W=CTYRI               
+I=9    W=TRI                 
+I=10   W=DVA                 
+I=11   W=JEDNA               
+I=12   W=SENT-END            
+I=13   W=!NULL               
+I=14   W=MI                  
+I=15   W=SPOJTE              
+I=16   W=MI                  
+I=17   W=DEJTE               
+I=18   W=PROSIM              
+I=19   W=BYCH                
+I=20   W=CHTEL               
+I=21   W=SENT-START          
+I=22   W=!NULL               
+I=23   W=!NULL               
+I=24   W=!NULL               
 J=0     S=0    E=0    
 J=1     S=2    E=0    
 J=2     S=2    E=1    
-J=3     S=1    E=2    
-J=4     S=3    E=2    
-J=5     S=4    E=2    
-J=6     S=5    E=2    
-J=7     S=6    E=2    
-J=8     S=7    E=2    
-J=9     S=8    E=2    
-J=10    S=9    E=2    
-J=11    S=10   E=2    
-J=12    S=11   E=2    
-J=13    S=12   E=2    
+J=3     S=13   E=1    
+J=4     S=1    E=2    
+J=5     S=3    E=2    
+J=6     S=4    E=2    
+J=7     S=5    E=2    
+J=8     S=6    E=2    
+J=9     S=7    E=2    
+J=10    S=8    E=2    
+J=11    S=9    E=2    
+J=12    S=10   E=2    
+J=13    S=11   E=2    
 J=14    S=2    E=3    
-J=15    S=14   E=3    
+J=15    S=13   E=3    
 J=16    S=2    E=4    
-J=17    S=14   E=4    
+J=17    S=13   E=4    
 J=18    S=2    E=5    
-J=19    S=14   E=5    
+J=19    S=13   E=5    
 J=20    S=2    E=6    
-J=21    S=14   E=6    
+J=21    S=13   E=6    
 J=22    S=2    E=7    
-J=23    S=14   E=7    
+J=23    S=13   E=7    
 J=24    S=2    E=8    
-J=25    S=14   E=8    
+J=25    S=13   E=8    
 J=26    S=2    E=9    
-J=27    S=14   E=9    
+J=27    S=13   E=9    
 J=28    S=2    E=10   
-J=29    S=14   E=10   
+J=29    S=13   E=10   
 J=30    S=2    E=11   
-J=31    S=14   E=11   
-J=32    S=2    E=12   
-J=33    S=14   E=12   
+J=31    S=13   E=11   
+J=32    S=13   E=12   
+J=33    S=12   E=13   
 J=34    S=14   E=13   
-J=35    S=13   E=14   
-J=36    S=16   E=14   
-J=37    S=0    E=15   
-J=38    S=2    E=15   
+J=35    S=16   E=13   
+J=36    S=18   E=13   
+J=37    S=19   E=13   
+J=38    S=15   E=14   
+J=39    S=22   E=15   
+J=40    S=17   E=16   
+J=41    S=22   E=17   
+J=42    S=22   E=18   
+J=43    S=20   E=19   
+J=44    S=22   E=20   
+J=45    S=22   E=21   
+J=46    S=21   E=22   
+J=47    S=24   E=22   
+J=48    S=0    E=23   
+J=49    S=2    E=23   

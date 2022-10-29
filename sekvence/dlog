@@ -1,34 +1,39 @@
 WARNING: no script file global.ded
-WARNING: no script file lexicon_numbers.ded
+WARNING: no script file lexicon_spojovatel.ded
 
 Dictionary Usage Statistics
 ---------------------------
   Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
-lexicon_numb        12         12         19         19
-        dict        12         12         19         19
+lexicon_spoj        18         18         25         25
+        dict        18         18         25         25
 
-12 words required, 0 missing
+18 words required, 0 missing
 
 New Phone Usage Counts
 ---------------------
-  1. ch    :     2
-  2. t     :     7
-  3. i     :     6
-  4. rz    :     2
-  5. rs    :     2
-  6. d     :     8
-  7. e     :    10
-  8. v     :     3
-  9. j     :     5
- 10. a     :     3
- 11. n     :     2
- 12. u     :     3
- 13. l     :     1
- 14. o     :     2
- 15. s     :     6
- 16. m     :     4
- 17. p     :     2
- 18. si    :     2
- 19. sh    :     2
+  1. b     :     1
+  2. i     :     8
+  3. x     :     2
+  4. tj    :     1
+  5. e     :    14
+  6. l     :     2
+  7. ch    :     2
+  8. t     :     9
+  9. rz    :     2
+ 10. rs    :     2
+ 11. d     :     9
+ 12. j     :     7
+ 13. v     :     3
+ 14. a     :     3
+ 15. n     :     2
+ 16. m     :     6
+ 17. u     :     3
+ 18. o     :     4
+ 19. s     :     8
+ 20. p     :     4
+ 21. r     :     1
+ 22. ii    :     1
+ 23. si    :     2
+ 24. sh    :     2
 
 Dictionary dict created

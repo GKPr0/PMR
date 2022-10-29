@@ -1,0 +1,3 @@
+$digit = JEDNA | DVA | TRI | CTYRI | PET | SEST | SEDM | OSM | DEVET | NULA;
+$starters = CHTEL  BYCH | PROSIM | DEJTE  MI | SPOJTE MI;
+( {SENT-START} $starters {SENT-END} <$digit> {SENT-END} )

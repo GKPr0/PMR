@@ -40,13 +40,13 @@ def generate_lab_from_txt(search_root: str):
     txt_files = list(Path(search_root).glob("**/*.txt"))
 
     for txt_file in txt_files:
-        with open(txt_file, mode="r", encoding="cp1250") as phn_f:
-            content = phn_f.readline()
+        with open(txt_file, mode="r", encoding="cp1250") as txt_f:
+            content = txt_f.readline().split()
 
-            lab_file = txt_file.with_suffix('.lab')
-
-            with open(lab_file, mode="w", encoding="cp1250") as lab_f:
-                lab_f.writelines(f"{content}\n")
+        lab_file = txt_file.with_suffix('.lab')
+        with open(lab_file, mode="w", encoding="cp1250") as lab_f:
+            for word in content:
+                lab_f.write(f"{word}\n")
 
 
 def generate_mlf_file_for_lab_files(search_root: str,

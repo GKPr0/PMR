@@ -1,26 +1,14 @@
-Aligned transcription: D:/VsTulPMR/data/Test/SekvenceCislovek/MC/z16.lab vs D:/VsTulPMR/data/Test/SekvenceCislovek/MC/z16.rec
- LAB: CTYRI JEDNA TRI DEVET TRI JEDNA TRI PET JEDNA 
- REC: CTYRI JEDNA PET DEVET TRI JEDNA TRI PET JEDNA 
-Aligned transcription: D:/VsTulPMR/data/Test/SekvenceCislovek/MC/z20.lab vs D:/VsTulPMR/data/Test/SekvenceCislovek/MC/z20.rec
- LAB: PET OSM CTYRI OSM OSM TRI SEST TRI  OSM 
- REC: PET OSM CTYRI OSM OSM TRI SEST SEDM OSM 
-Aligned transcription: D:/VsTulPMR/data/Test/SekvenceCislovek/MD/011.lab vs D:/VsTulPMR/data/Test/SekvenceCislovek/MD/011.rec
- LAB: CTYRI OSM NULA 
- REC: CTYRI OSM      
 Aligned transcription: D:/VsTulPMR/data/Test/SekvenceCislovek/MK/7410013.lab vs D:/VsTulPMR/data/Test/SekvenceCislovek/MK/7410013.rec
  LAB: SEDM CTYRI JEDNA NULA NULA JEDNA TRI 
- REC: SEDM CTYRI       DVA  NULA JEDNA TRI 
-Aligned transcription: D:/VsTulPMR/data/Test/SekvenceCislovek/MT/002.lab vs D:/VsTulPMR/data/Test/SekvenceCislovek/MT/002.rec
- LAB: TRI CTYRI OSM JEDNA NULA SEDM TRI 
- REC: TRI CTYRI OSM DVA   NULA SEDM TRI 
+ REC: SEDM CTYRI DVA   NULA NULA JEDNA TRI 
 Aligned transcription: D:/VsTulPMR/data/Test/SekvenceCislovek/MT/004.lab vs D:/VsTulPMR/data/Test/SekvenceCislovek/MT/004.rec
  LAB: NULA JEDNA DVA  TRI CTYRI PET 
  REC: NULA JEDNA NULA TRI CTYRI PET 
 ====================== HTK Results Analysis =======================
-  Date: Thu Oct 27 13:09:15 2022
+  Date: Thu Oct 27 13:17:45 2022
   Ref : reference.mlf
   Rec : seq_numbers_results.mlf
 ------------------------ Overall Results --------------------------
-SENT: %Correct=93.33 [H=84, S=6, N=90]
-WORD: %Corr=98.68, Acc=98.68 [H=522, D=2, S=5, I=0, N=529]
+SENT: %Correct=97.78 [H=88, S=2, N=90]
+WORD: %Corr=99.62, Acc=99.62 [H=527, D=0, S=2, I=0, N=529]
 ===================================================================
