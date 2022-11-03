@@ -1,10 +1,10 @@
 from utils.HTKCommands import generate_wordnet, generate_dictionary, generate_parametrized_files, compute_variance, \
     train_model
-from utils.HTKUtils import generate_hmmdefs_file, generate_wav_list_file, generate_mlf_file_for_lab_files, \
+from utils.HTKUtils import generate_hmmdefs_phonem_file, generate_wav_list_file, generate_mlf_file_for_lab_files, \
     generate_lab_from_phn, generate_param_list_file, generate_scp_file, generate_phonem_models0_file
 
 if __name__ == "__main__":
-    train_data_root = "..\\data\\Train\\VacekVety"
+    train_data_root = "..\\data\\Train\\Studenti\\VacekVety"
     target_root = "SD_Experiment"
     train_iter_count = 20
 
@@ -39,7 +39,7 @@ if __name__ == "__main__":
 
     model_path = compute_variance(scp_train_file, target_root)
 
-    generate_hmmdefs_file(model_path)
+    generate_hmmdefs_phonem_file(model_path)
 
     train_model(target_root,
                 iter_count=train_iter_count,

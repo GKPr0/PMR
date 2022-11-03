@@ -12,6 +12,7 @@ defaults = {
     "wordnet": "wordnet",
     "models0": "models0",
     "models0_phonem": "models0_phonems",
+    "models0_speaker_identification": "models0_speaker_identification",
     "test_scp": "test.scp",
     "train_scp": "train.scp",
     "test_param_list": "test_param.list",
@@ -27,6 +28,7 @@ resources = {
 
 prototypes = {
     "model_3s_39f": pathlib.Path(__file__).parent / "resources\\proto-3s-39f",
+    "model_1s_39f": pathlib.Path(__file__).parent / "resources\\proto-1s-39f",
 }
 
 param_configs = {

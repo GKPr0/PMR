@@ -1,0 +1,117 @@
+VERSION=1.0
+N=40   L=75   
+I=0    W=!NULL               
+I=1    W=!NULL               
+I=2    W=BLAZEK              
+I=3    W=!NULL               
+I=4    W=CERNY               
+I=5    W=CHMELIK             
+I=6    W=DAVID               
+I=7    W=DUTKA               
+I=8    W=DVORSKY             
+I=9    W=HALADAVETY          
+I=10   W=HORKYVETY           
+I=11   W=JAN                 
+I=12   W=KOLAR               
+I=13   W=KOUNOVSKY           
+I=14   W=MAR                 
+I=15   W=MJ                  
+I=16   W=MJB                 
+I=17   W=MJL                 
+I=18   W=MKK                 
+I=19   W=MMS                 
+I=20   W=MOS                 
+I=21   W=MPCH                
+I=22   W=MPM                 
+I=23   W=MPS                 
+I=24   W=MVL                 
+I=25   W=MVL2                
+I=26   W=NOZICKA             
+I=27   W=PB                  
+I=28   W=POLACEKVETY         
+I=29   W=SMOLA               
+I=30   W=TOMAS               
+I=31   W=VACEKVETY           
+I=32   W=VACLAV              
+I=33   W=ZLG                 
+I=34   W=ZLR                 
+I=35   W=ZNM                 
+I=36   W=ZSS                 
+I=37   W=ZSS2                
+I=38   W=ZTK                 
+I=39   W=ZTV                 
+J=0     S=3    E=1    
+J=1     S=0    E=2    
+J=2     S=2    E=3    
+J=3     S=4    E=3    
+J=4     S=5    E=3    
+J=5     S=6    E=3    
+J=6     S=7    E=3    
+J=7     S=8    E=3    
+J=8     S=9    E=3    
+J=9     S=10   E=3    
+J=10    S=11   E=3    
+J=11    S=12   E=3    
+J=12    S=13   E=3    
+J=13    S=14   E=3    
+J=14    S=15   E=3    
+J=15    S=16   E=3    
+J=16    S=17   E=3    
+J=17    S=18   E=3    
+J=18    S=19   E=3    
+J=19    S=20   E=3    
+J=20    S=21   E=3    
+J=21    S=22   E=3    
+J=22    S=23   E=3    
+J=23    S=24   E=3    
+J=24    S=25   E=3    
+J=25    S=26   E=3    
+J=26    S=27   E=3    
+J=27    S=28   E=3    
+J=28    S=29   E=3    
+J=29    S=30   E=3    
+J=30    S=31   E=3    
+J=31    S=32   E=3    
+J=32    S=33   E=3    
+J=33    S=34   E=3    
+J=34    S=35   E=3    
+J=35    S=36   E=3    
+J=36    S=37   E=3    
+J=37    S=38   E=3    
+J=38    S=39   E=3    
+J=39    S=0    E=4    
+J=40    S=0    E=5    
+J=41    S=0    E=6    
+J=42    S=0    E=7    
+J=43    S=0    E=8    
+J=44    S=0    E=9    
+J=45    S=0    E=10   
+J=46    S=0    E=11   
+J=47    S=0    E=12   
+J=48    S=0    E=13   
+J=49    S=0    E=14   
+J=50    S=0    E=15   
+J=51    S=0    E=16   
+J=52    S=0    E=17   
+J=53    S=0    E=18   
+J=54    S=0    E=19   
+J=55    S=0    E=20   
+J=56    S=0    E=21   
+J=57    S=0    E=22   
+J=58    S=0    E=23   
+J=59    S=0    E=24   
+J=60    S=0    E=25   
+J=61    S=0    E=26   
+J=62    S=0    E=27   
+J=63    S=0    E=28   
+J=64    S=0    E=29   
+J=65    S=0    E=30   
+J=66    S=0    E=31   
+J=67    S=0    E=32   
+J=68    S=0    E=33   
+J=69    S=0    E=34   
+J=70    S=0    E=35   
+J=71    S=0    E=36   
+J=72    S=0    E=37   
+J=73    S=0    E=38   
+J=74    S=0    E=39   

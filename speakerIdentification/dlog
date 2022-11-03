@@ -1,0 +1,52 @@
+WARNING: no script file global.ded
+WARNING: no script file lexicon_speaker_identification.ded
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+lexicon_spea        37         37         37         37
+        dict        37         37         37         37
+
+37 words required, 0 missing
+
+New Phone Usage Counts
+---------------------
+  1. BLAZEK :     1
+  2. CERNY :     1
+  3. CHMELIK :     1
+  4. DAVID :     1
+  5. DUTKA :     1
+  6. DVORSKY :     1
+  7. HALADAVETY :     1
+  8. HORKYVETY :     1
+  9. JAN   :     1
+ 10. KOLAR :     1
+ 11. KOUNOVSKY :     1
+ 12. MAR   :     1
+ 13. MJ    :     1
+ 14. MJB   :     1
+ 15. MJL   :     1
+ 16. MKK   :     1
+ 17. MMS   :     1
+ 18. MOS   :     1
+ 19. MPCH  :     1
+ 20. MPM   :     1
+ 21. MPS   :     1
+ 22. MVL   :     1
+ 23. MVL2  :     1
+ 24. NOZICKA :     1
+ 25. PB    :     1
+ 26. POLACEKVETY :     1
+ 27. SMOLA :     1
+ 28. TOMAS :     1
+ 29. VACEKVETY :     1
+ 30. VACLAV :     1
+ 31. ZLG   :     1
+ 32. ZLR   :     1
+ 33. ZNM   :     1
+ 34. ZSS   :     1
+ 35. ZSS2  :     1
+ 36. ZTK   :     1
+ 37. ZTV   :     1
+
+Dictionary dict created

@@ -1,5 +1,5 @@
 #!MLF!#
-"D:/VsTulPMR/data/Train/VacekVety/001.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/001.lab"
 0 0 si
 0 0 p
 0 0 r
@@ -50,15 +50,16 @@
 0 0 p
 0 0 rs
 0 0 e
-0 0 ts
+0 0 c
 0 0 t
 0 0 a
 0 0 v
 0 0 i
 0 0 t
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/002.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/002.lab"
 0 0 si
 0 0 m
 0 0 a
@@ -115,7 +116,7 @@
 0 0 zh
 0 0 nj
 0 0 i
-0 0 ts
+0 0 c
 0 0 i
 0 0 i
 0 0 o
@@ -132,8 +133,9 @@
 0 0 v
 0 0 aa
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/003.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/003.lab"
 0 0 si
 0 0 v
 0 0 l
@@ -146,7 +148,7 @@
 0 0 m
 0 0 r
 0 0 o
-0 0 ts
+0 0 c
 0 0 e
 0 0 s
 0 0 e
@@ -180,7 +182,7 @@
 0 0 j
 0 0 v
 0 0 ii
-0 0 ts
+0 0 c
 0 0 e
 0 0 m
 0 0 a
@@ -192,8 +194,9 @@
 0 0 t
 0 0 uu
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/004.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/004.lab"
 0 0 si
 0 0 d
 0 0 uu
@@ -207,7 +210,7 @@
 0 0 r
 0 0 aa
 0 0 m
-0 0 ts
+0 0 c
 0 0 i
 0 0 r
 0 0 e
@@ -219,7 +222,7 @@
 0 0 r
 0 0 u
 0 0 k
-0 0 ts
+0 0 c
 0 0 e
 0 0 p
 0 0 l
@@ -255,8 +258,9 @@
 0 0 nj
 0 0 ii
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/005.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/005.lab"
 0 0 si
 0 0 j
 0 0 e
@@ -320,8 +324,9 @@
 0 0 t
 0 0 uu
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/006.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/006.lab"
 0 0 si
 0 0 v
 0 0 j
@@ -346,7 +351,7 @@
 0 0 u
 0 0 j
 0 0 ii
-0 0 ts
+0 0 c
 0 0 ii
 0 0 k
 0 0 t
@@ -377,7 +382,7 @@
 0 0 o
 0 0 v
 0 0 a
-0 0 ts
+0 0 c
 0 0 ii
 0 0 n
 0 0 e
@@ -390,8 +395,9 @@
 0 0 s
 0 0 t
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/007.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/007.lab"
 0 0 si
 0 0 p
 0 0 rs
@@ -467,8 +473,9 @@
 0 0 r
 0 0 uu
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/008.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/008.lab"
 0 0 si
 0 0 k
 0 0 r
@@ -533,8 +540,9 @@
 0 0 tj
 0 0 ii
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/009.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/009.lab"
 0 0 si
 0 0 f
 0 0 p
@@ -563,7 +571,7 @@
 0 0 t
 0 0 r
 0 0 a
-0 0 ts
+0 0 c
 0 0 e
 0 0 o
 0 0 p
@@ -607,8 +615,9 @@
 0 0 ii
 0 0 m
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/010.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/010.lab"
 0 0 si
 0 0 o
 0 0 d
@@ -667,7 +676,7 @@
 0 0 t
 0 0 u
 0 0 a
-0 0 ts
+0 0 c
 0 0 i
 0 0 z
 0 0 v
@@ -676,8 +685,9 @@
 0 0 d
 0 0 aa
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/011.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/011.lab"
 0 0 si
 0 0 p
 0 0 o
@@ -737,7 +747,7 @@
 0 0 ee
 0 0 s
 0 0 o
-0 0 ts
+0 0 c
 0 0 i
 0 0 j
 0 0 aa
@@ -751,14 +761,15 @@
 0 0 e
 0 0 k
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/012.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/012.lab"
 0 0 si
 0 0 k
 0 0 o
 0 0 n
 0 0 e
-0 0 ts
+0 0 c
 0 0 p
 0 0 a
 0 0 n
@@ -826,8 +837,9 @@
 0 0 e
 0 0 t
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/013.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/013.lab"
 0 0 si
 0 0 a
 0 0 n
@@ -860,7 +872,7 @@
 0 0 o
 0 0 n
 0 0 i
-0 0 ts
+0 0 c
 0 0 k
 0 0 ee
 0 0 n
@@ -914,8 +926,9 @@
 0 0 e
 0 0 m
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/014.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/014.lab"
 0 0 si
 0 0 i
 0 0 p
@@ -934,7 +947,7 @@
 0 0 o
 0 0 j
 0 0 v
-0 0 ts
+0 0 c
 0 0 o
 0 0 v
 0 0 i
@@ -994,8 +1007,9 @@
 0 0 k
 0 0 aa
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/015.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/015.lab"
 0 0 si
 0 0 j
 0 0 a
@@ -1049,7 +1063,7 @@
 0 0 a
 0 0 k
 0 0 o
-0 0 ts
+0 0 c
 0 0 e
 0 0 l
 0 0 e
@@ -1068,8 +1082,9 @@
 0 0 e
 0 0 x
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/016.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/016.lab"
 0 0 si
 0 0 n
 0 0 a
@@ -1090,7 +1105,7 @@
 0 0 ii
 0 0 h
 0 0 o
-0 0 ts
+0 0 c
 0 0 i
 0 0 k
 0 0 l
@@ -1144,11 +1159,12 @@
 0 0 l
 0 0 i
 0 0 f
-0 0 ts
+0 0 c
 0 0 uu
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/017.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/017.lab"
 0 0 si
 0 0 p
 0 0 o
@@ -1182,7 +1198,7 @@
 0 0 o
 0 0 n
 0 0 e
-0 0 ts
+0 0 c
 0 0 h
 0 0 o
 0 0 k
@@ -1211,8 +1227,9 @@
 0 0 s
 0 0 t
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/018.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/018.lab"
 0 0 si
 0 0 p
 0 0 o
@@ -1248,7 +1265,7 @@
 0 0 t
 0 0 v
 0 0 ii
-0 0 ts
+0 0 c
 0 0 e
 0 0 s
 0 0 m
@@ -1283,12 +1300,13 @@
 0 0 u
 0 0 j
 0 0 ii
-0 0 ts
+0 0 c
 0 0 ii
 0 0 x
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/019.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/019.lab"
 0 0 si
 0 0 s
 0 0 v
@@ -1348,8 +1366,9 @@
 0 0 nj
 0 0 ii
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/020.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/020.lab"
 0 0 si
 0 0 j
 0 0 a
@@ -1369,7 +1388,7 @@
 0 0 k
 0 0 r
 0 0 o
-0 0 ts
+0 0 c
 0 0 a
 0 0 n
 0 0 a
@@ -1390,8 +1409,9 @@
 0 0 o
 0 0 u
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/021.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/021.lab"
 0 0 si
 0 0 ch
 0 0 o
@@ -1449,8 +1469,9 @@
 0 0 nj
 0 0 ii
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/022.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/022.lab"
 0 0 si
 0 0 g
 0 0 d
@@ -1490,8 +1511,9 @@
 0 0 t
 0 0 o
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/023.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/023.lab"
 0 0 si
 0 0 p
 0 0 o
@@ -1547,11 +1569,12 @@
 0 0 d
 0 0 e
 0 0 j
-0 0 ts
+0 0 c
 0 0 uu
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/024.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/024.lab"
 0 0 si
 0 0 t
 0 0 ee
@@ -1595,7 +1618,7 @@
 0 0 aa
 0 0 n
 0 0 o
-0 0 ts
+0 0 c
 0 0 e
 0 0 n
 0 0 e
@@ -1605,8 +1628,9 @@
 0 0 nj
 0 0 i
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/025.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/025.lab"
 0 0 si
 0 0 n
 0 0 a
@@ -1676,11 +1700,12 @@
 0 0 s
 0 0 t
 0 0 i
-0 0 ts
+0 0 c
 0 0 e
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/026.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/026.lab"
 0 0 si
 0 0 p
 0 0 o
@@ -1692,7 +1717,7 @@
 0 0 n
 0 0 p
 0 0 o
-0 0 ts
+0 0 c
 0 0 e
 0 0 r
 0 0 e
@@ -1732,8 +1757,9 @@
 0 0 tj
 0 0 ii
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/027.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/027.lab"
 0 0 si
 0 0 n
 0 0 e
@@ -1804,8 +1830,9 @@
 0 0 u
 0 0 t
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/028.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/028.lab"
 0 0 si
 0 0 m
 0 0 l
@@ -1857,7 +1884,7 @@
 0 0 t
 0 0 e
 0 0 n
-0 0 ts
+0 0 c
 0 0 e
 0 0 s
 0 0 t
@@ -1865,8 +1892,9 @@
 0 0 t
 0 0 u
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/029.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/029.lab"
 0 0 si
 0 0 n
 0 0 aa
@@ -1880,7 +1908,7 @@
 0 0 a
 0 0 k
 0 0 s
-0 0 ts
+0 0 c
 0 0 e
 0 0 l
 0 0 a
@@ -1924,17 +1952,18 @@
 0 0 o
 0 0 z
 0 0 i
-0 0 ts
+0 0 c
 0 0 i
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/030.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/030.lab"
 0 0 si
 0 0 k
 0 0 r
 0 0 aa
 0 0 t
-0 0 ts
+0 0 c
 0 0 e
 0 0 p
 0 0 rs
@@ -1987,8 +2016,9 @@
 0 0 o
 0 0 u
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/031.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/031.lab"
 0 0 si
 0 0 m
 0 0 o
@@ -1998,7 +2028,7 @@
 0 0 i
 0 0 z
 0 0 a
-0 0 ts
+0 0 c
 0 0 e
 0 0 s
 0 0 e
@@ -2080,8 +2110,9 @@
 0 0 j
 0 0 ii
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/032.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/032.lab"
 0 0 si
 0 0 m
 0 0 a
@@ -2163,8 +2194,9 @@
 0 0 s
 0 0 t
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/033.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/033.lab"
 0 0 si
 0 0 m
 0 0 n
@@ -2189,7 +2221,7 @@
 0 0 o
 0 0 k
 0 0 ee
-0 0 ts
+0 0 c
 0 0 e
 0 0 n
 0 0 i
@@ -2222,7 +2254,7 @@
 0 0 uu
 0 0 b
 0 0 e
-0 0 ts
+0 0 c
 0 0 n
 0 0 e
 0 0 m
@@ -2235,8 +2267,9 @@
 0 0 ii
 0 0 t
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/034.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/034.lab"
 0 0 si
 0 0 b
 0 0 i
@@ -2265,7 +2298,7 @@
 0 0 o
 0 0 v
 0 0 ee
-0 0 ts
+0 0 c
 0 0 e
 0 0 n
 0 0 i
@@ -2303,8 +2336,9 @@
 0 0 n
 0 0 e
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/035.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/035.lab"
 0 0 si
 0 0 o
 0 0 m
@@ -2327,7 +2361,7 @@
 0 0 s
 0 0 i
 0 0 n
-0 0 ts
+0 0 c
 0 0 e
 0 0 j
 0 0 i
@@ -2348,8 +2382,9 @@
 0 0 a
 0 0 t
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/036.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/036.lab"
 0 0 si
 0 0 o
 0 0 s
@@ -2418,8 +2453,9 @@
 0 0 v
 0 0 u
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/037.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/037.lab"
 0 0 si
 0 0 z
 0 0 a
@@ -2442,7 +2478,7 @@
 0 0 i
 0 0 k
 0 0 a
-0 0 ts
+0 0 c
 0 0 e
 0 0 j
 0 0 e
@@ -2457,11 +2493,11 @@
 0 0 o
 0 0 m
 0 0 o
-0 0 ts
+0 0 c
 0 0 ii
 0 0 v
 0 0 ii
-0 0 ts
+0 0 c
 0 0 e
 0 0 n
 0 0 e
@@ -2479,8 +2515,9 @@
 0 0 e
 0 0 p
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/038.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/038.lab"
 0 0 si
 0 0 j
 0 0 e
@@ -2488,7 +2525,7 @@
 0 0 o
 0 0 r
 0 0 e
-0 0 ts
+0 0 c
 0 0 e
 0 0 p
 0 0 t
@@ -2533,8 +2570,9 @@
 0 0 tj
 0 0 e
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/039.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/039.lab"
 0 0 si
 0 0 s
 0 0 p
@@ -2603,8 +2641,9 @@
 0 0 tj
 0 0 ii
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/040.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/040.lab"
 0 0 si
 0 0 j
 0 0 a
@@ -2640,7 +2679,7 @@
 0 0 o
 0 0 m
 0 0 o
-0 0 ts
+0 0 c
 0 0 ii
 0 0 k
 0 0 t
@@ -2664,8 +2703,9 @@
 0 0 o
 0 0 j
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/041.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/041.lab"
 0 0 si
 0 0 o
 0 0 b
@@ -2683,7 +2723,7 @@
 0 0 p
 0 0 r
 0 0 a
-0 0 ts
+0 0 c
 0 0 o
 0 0 v
 0 0 a
@@ -2705,11 +2745,12 @@
 0 0 l
 0 0 nj
 0 0 ii
-0 0 ts
+0 0 c
 0 0 i
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/042.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/042.lab"
 0 0 si
 0 0 p
 0 0 o
@@ -2741,7 +2782,7 @@
 0 0 s
 0 0 nj
 0 0 i
-0 0 ts
+0 0 c
 0 0 k
 0 0 ii
 0 0 o
@@ -2772,8 +2813,9 @@
 0 0 n
 0 0 u
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/043.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/043.lab"
 0 0 si
 0 0 k
 0 0 r
@@ -2783,7 +2825,7 @@
 0 0 e
 0 0 s
 0 0 o
-0 0 ts
+0 0 c
 0 0 i
 0 0 j
 0 0 aa
@@ -2814,7 +2856,7 @@
 0 0 i
 0 0 z
 0 0 r
-0 0 ts
+0 0 c
 0 0 a
 0 0 d
 0 0 l
@@ -2834,8 +2876,9 @@
 0 0 tj
 0 0 i
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/044.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/044.lab"
 0 0 si
 0 0 j
 0 0 e
@@ -2869,7 +2912,7 @@
 0 0 p
 0 0 r
 0 0 o
-0 0 ts
+0 0 c
 0 0 e
 0 0 l
 0 0 o
@@ -2883,18 +2926,19 @@
 0 0 e
 0 0 d
 0 0 e
-0 0 ts
+0 0 c
 0 0 k
 0 0 ii
 0 0 x
 0 0 p
 0 0 r
 0 0 a
-0 0 ts
+0 0 c
 0 0 ii
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/045.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/045.lab"
 0 0 si
 0 0 t
 0 0 v
@@ -2941,7 +2985,7 @@
 0 0 i
 0 0 s
 0 0 o
-0 0 ts
+0 0 c
 0 0 i
 0 0 o
 0 0 l
@@ -2961,8 +3005,9 @@
 0 0 j
 0 0 e
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/046.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/046.lab"
 0 0 si
 0 0 p
 0 0 o
@@ -3026,8 +3071,9 @@
 0 0 k
 0 0 u
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/047.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/047.lab"
 0 0 si
 0 0 z
 0 0 aa
@@ -3112,8 +3158,9 @@
 0 0 t
 0 0 u
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/048.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/048.lab"
 0 0 si
 0 0 v
 0 0 i
@@ -3187,8 +3234,9 @@
 0 0 tj
 0 0 i
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/049.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/049.lab"
 0 0 si
 0 0 p
 0 0 r
@@ -3259,8 +3307,9 @@
 0 0 n
 0 0 o
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/050.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/050.lab"
 0 0 si
 0 0 k
 0 0 l
@@ -3315,8 +3364,9 @@
 0 0 n
 0 0 i
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/051.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/051.lab"
 0 0 si
 0 0 p
 0 0 l
@@ -3337,7 +3387,7 @@
 0 0 i
 0 0 t
 0 0 a
-0 0 ts
+0 0 c
 0 0 e
 0 0 p
 0 0 o
@@ -3364,7 +3414,7 @@
 0 0 i
 0 0 s
 0 0 ii
-0 0 ts
+0 0 c
 0 0 m
 0 0 nj
 0 0 e
@@ -3374,8 +3424,9 @@
 0 0 nj
 0 0 e
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/052.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/052.lab"
 0 0 si
 0 0 m
 0 0 i
@@ -3427,8 +3478,9 @@
 0 0 n
 0 0 i
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/053.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/053.lab"
 0 0 si
 0 0 o
 0 0 n
@@ -3442,7 +3494,7 @@
 0 0 n
 0 0 e
 0 0 x
-0 0 ts
+0 0 c
 0 0 e
 0 0 dj
 0 0 e
@@ -3465,11 +3517,11 @@
 0 0 tj
 0 0 e
 0 0 sh
-0 0 ts
+0 0 c
 0 0 ii
 0 0 p
 0 0 a
-0 0 ts
+0 0 c
 0 0 i
 0 0 j
 0 0 e
@@ -3477,8 +3529,9 @@
 0 0 tj
 0 0 i
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/054.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/054.lab"
 0 0 si
 0 0 v
 0 0 i
@@ -3533,8 +3586,9 @@
 0 0 t
 0 0 aa
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/055.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/055.lab"
 0 0 si
 0 0 s
 0 0 o
@@ -3565,7 +3619,7 @@
 0 0 p
 0 0 r
 0 0 a
-0 0 ts
+0 0 c
 0 0 o
 0 0 v
 0 0 nj
@@ -3611,8 +3665,9 @@
 0 0 k
 0 0 u
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/056.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/056.lab"
 0 0 si
 0 0 p
 0 0 o
@@ -3657,7 +3712,7 @@
 0 0 p
 0 0 l
 0 0 i
-0 0 ts
+0 0 c
 0 0 i
 0 0 t
 0 0 nj
@@ -3677,7 +3732,7 @@
 0 0 t
 0 0 nj
 0 0 i
-0 0 ts
+0 0 c
 0 0 k
 0 0 ii
 0 0 x
@@ -3688,8 +3743,9 @@
 0 0 e
 0 0 p
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/057.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/057.lab"
 0 0 si
 0 0 p
 0 0 a
@@ -3764,8 +3820,9 @@
 0 0 t
 0 0 uu
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/058.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/058.lab"
 0 0 si
 0 0 p
 0 0 r
@@ -3827,8 +3884,9 @@
 0 0 l
 0 0 ee
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/059.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/059.lab"
 0 0 si
 0 0 n
 0 0 e
@@ -3876,12 +3934,13 @@
 0 0 e
 0 0 t
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/060.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/060.lab"
 0 0 si
 0 0 p
 0 0 o
-0 0 ts
+0 0 c
 0 0 e
 0 0 l
 0 0 o
@@ -3949,8 +4008,9 @@
 0 0 k
 0 0 t
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/061.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/061.lab"
 0 0 si
 0 0 v
 0 0 m
@@ -3982,7 +4042,7 @@
 0 0 uu
 0 0 s
 0 0 t
-0 0 ts
+0 0 c
 0 0 e
 0 0 l
 0 0 k
@@ -4009,8 +4069,9 @@
 0 0 m
 0 0 uu
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/062.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/062.lab"
 0 0 si
 0 0 t
 0 0 o
@@ -4020,7 +4081,7 @@
 0 0 o
 0 0 n
 0 0 e
-0 0 ts
+0 0 c
 0 0 n
 0 0 e
 0 0 p
@@ -4074,8 +4135,9 @@
 0 0 n
 0 0 uu
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/063.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/063.lab"
 0 0 si
 0 0 v
 0 0 i
@@ -4143,8 +4205,9 @@
 0 0 n
 0 0 ee
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/064.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/064.lab"
 0 0 si
 0 0 z
 0 0 aa
@@ -4174,7 +4237,7 @@
 0 0 o
 0 0 r
 0 0 i
-0 0 ts
+0 0 c
 0 0 k
 0 0 ee
 0 0 h
@@ -4211,11 +4274,12 @@
 0 0 t
 0 0 u
 0 0 p
-0 0 ts
+0 0 c
 0 0 e
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/065.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/065.lab"
 0 0 si
 0 0 z
 0 0 aa
@@ -4280,7 +4344,7 @@
 0 0 e
 0 0 t
 0 0 i
-0 0 ts
+0 0 c
 0 0 e
 0 0 o
 0 0 p
@@ -4289,8 +4353,9 @@
 0 0 n
 0 0 uu
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/066.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/066.lab"
 0 0 si
 0 0 z
 0 0 d
@@ -4337,8 +4402,9 @@
 0 0 n
 0 0 ee
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/067.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/067.lab"
 0 0 si
 0 0 t
 0 0 u
@@ -4394,8 +4460,9 @@
 0 0 l
 0 0 e
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/068.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/068.lab"
 0 0 si
 0 0 t
 0 0 r
@@ -4421,7 +4488,7 @@
 0 0 e
 0 0 l
 0 0 i
-0 0 ts
+0 0 c
 0 0 e
 0 0 d
 0 0 o
@@ -4436,8 +4503,9 @@
 0 0 i
 0 0 t
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/069.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/069.lab"
 0 0 si
 0 0 s
 0 0 l
@@ -4462,7 +4530,7 @@
 0 0 p
 0 0 l
 0 0 aa
-0 0 ts
+0 0 c
 0 0 e
 0 0 t
 0 0 o
@@ -4486,7 +4554,7 @@
 0 0 uu
 0 0 j
 0 0 ch
-0 0 ts
+0 0 c
 0 0 e
 0 0 f
 0 0 i
@@ -4513,8 +4581,9 @@
 0 0 t
 0 0 r
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/070.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/070.lab"
 0 0 si
 0 0 m
 0 0 e
@@ -4536,7 +4605,7 @@
 0 0 o
 0 0 t
 0 0 e
-0 0 ts
+0 0 c
 0 0 a
 0 0 z
 0 0 aa
@@ -4566,8 +4635,9 @@
 0 0 m
 0 0 u
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/071.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/071.lab"
 0 0 si
 0 0 n
 0 0 a
@@ -4593,7 +4663,7 @@
 0 0 e
 0 0 dj
 0 0 i
-0 0 ts
+0 0 c
 0 0 k
 0 0 ee
 0 0 rz
@@ -4620,11 +4690,12 @@
 0 0 k
 0 0 o
 0 0 n
-0 0 ts
+0 0 c
 0 0 e
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/072.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/072.lab"
 0 0 si
 0 0 b
 0 0 ii
@@ -4676,8 +4747,9 @@
 0 0 r
 0 0 i
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/073.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/073.lab"
 0 0 si
 0 0 s
 0 0 e
@@ -4753,15 +4825,16 @@
 0 0 nj
 0 0 e
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/074.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/074.lab"
 0 0 si
 0 0 r
 0 0 e
 0 0 d
 0 0 a
 0 0 k
-0 0 ts
+0 0 c
 0 0 e
 0 0 s
 0 0 e
@@ -4811,8 +4884,9 @@
 0 0 nj
 0 0 ii
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/075.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/075.lab"
 0 0 si
 0 0 j
 0 0 e
@@ -4838,7 +4912,7 @@
 0 0 e
 0 0 s
 0 0 ii
-0 0 ts
+0 0 c
 0 0 e
 0 0 n
 0 0 e
@@ -4869,8 +4943,9 @@
 0 0 e
 0 0 tj
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/076.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/076.lab"
 0 0 si
 0 0 n
 0 0 e
@@ -4921,7 +4996,7 @@
 0 0 e
 0 0 s
 0 0 ii
-0 0 ts
+0 0 c
 0 0 e
 0 0 d
 0 0 v
@@ -4931,8 +5006,9 @@
 0 0 aa
 0 0 t
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/077.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/077.lab"
 0 0 si
 0 0 n
 0 0 e
@@ -4947,7 +5023,7 @@
 0 0 i
 0 0 sh
 0 0 x
-0 0 ts
+0 0 c
 0 0 e
 0 0 nj
 0 0 e
@@ -4978,12 +5054,13 @@
 0 0 x
 0 0 o
 0 0 t
-0 0 ts
+0 0 c
 0 0 ii
 0 0 x
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/078.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/078.lab"
 0 0 si
 0 0 s
 0 0 v
@@ -5035,11 +5112,12 @@
 0 0 p
 0 0 r
 0 0 aa
-0 0 ts
+0 0 c
 0 0 e
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/079.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/079.lab"
 0 0 si
 0 0 o
 0 0 d
@@ -5099,11 +5177,12 @@
 0 0 m
 0 0 o
 0 0 f
-0 0 ts
+0 0 c
 0 0 e
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/080.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/080.lab"
 0 0 si
 0 0 s
 0 0 a
@@ -5111,7 +5190,7 @@
 0 0 e
 0 0 r
 0 0 i
-0 0 ts
+0 0 c
 0 0 k
 0 0 ii
 0 0 x
@@ -5148,7 +5227,7 @@
 0 0 e
 0 0 r
 0 0 i
-0 0 ts
+0 0 c
 0 0 k
 0 0 ee
 0 0 v
@@ -5160,8 +5239,9 @@
 0 0 nj
 0 0 ii
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/081.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/081.lab"
 0 0 si
 0 0 f
 0 0 t
@@ -5211,8 +5291,9 @@
 0 0 t
 0 0 i
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/082.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/082.lab"
 0 0 si
 0 0 j
 0 0 e
@@ -5272,8 +5353,9 @@
 0 0 l
 0 0 u
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/083.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/083.lab"
 0 0 si
 0 0 j
 0 0 e
@@ -5324,8 +5406,9 @@
 0 0 p
 0 0 uu
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/084.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/084.lab"
 0 0 si
 0 0 j
 0 0 e
@@ -5385,8 +5468,9 @@
 0 0 j
 0 0 uu
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/085.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/085.lab"
 0 0 si
 0 0 z
 0 0 aa
@@ -5425,7 +5509,7 @@
 0 0 n
 0 0 a
 0 0 n
-0 0 ts
+0 0 c
 0 0 o
 0 0 v
 0 0 aa
@@ -5443,8 +5527,9 @@
 0 0 t
 0 0 u
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/086.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/086.lab"
 0 0 si
 0 0 s
 0 0 t
@@ -5466,7 +5551,7 @@
 0 0 n
 0 0 a
 0 0 n
-0 0 ts
+0 0 c
 0 0 o
 0 0 v
 0 0 aa
@@ -5480,7 +5565,7 @@
 0 0 e
 0 0 g
 0 0 i
-0 0 ts
+0 0 c
 0 0 k
 0 0 ii
 0 0 x
@@ -5505,14 +5590,15 @@
 0 0 ii
 0 0 v
 0 0 ii
-0 0 ts
+0 0 c
 0 0 e
 0 0 l
 0 0 e
 0 0 t
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/087.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/087.lab"
 0 0 si
 0 0 t
 0 0 o
@@ -5572,8 +5658,9 @@
 0 0 k
 0 0 a
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/088.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/088.lab"
 0 0 si
 0 0 s
 0 0 p
@@ -5588,7 +5675,7 @@
 0 0 k
 0 0 t
 0 0 i
-0 0 ts
+0 0 c
 0 0 k
 0 0 ee
 0 0 r
@@ -5625,8 +5712,9 @@
 0 0 k
 0 0 i
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/089.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/089.lab"
 0 0 si
 0 0 z
 0 0 d
@@ -5676,8 +5764,9 @@
 0 0 m
 0 0 i
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/090.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/090.lab"
 0 0 si
 0 0 m
 0 0 l
@@ -5690,7 +5779,7 @@
 0 0 e
 0 0 r
 0 0 a
-0 0 ts
+0 0 c
 0 0 e
 0 0 f
 0 0 sh
@@ -5716,7 +5805,7 @@
 0 0 e
 0 0 tj
 0 0 i
-0 0 ts
+0 0 c
 0 0 k
 0 0 o
 0 0 u
@@ -5730,8 +5819,9 @@
 0 0 m
 0 0 aa
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/091.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/091.lab"
 0 0 si
 0 0 p
 0 0 o
@@ -5781,8 +5871,9 @@
 0 0 l
 0 0 i
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/092.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/092.lab"
 0 0 si
 0 0 p
 0 0 o
@@ -5803,7 +5894,7 @@
 0 0 e
 0 0 nj
 0 0 i
-0 0 ts
+0 0 c
 0 0 i
 0 0 dg
 0 0 u
@@ -5822,12 +5913,13 @@
 0 0 e
 0 0 m
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/093.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/093.lab"
 0 0 si
 0 0 m
 0 0 o
-0 0 ts
+0 0 c
 0 0 s
 0 0 e
 0 0 o
@@ -5860,8 +5952,9 @@
 0 0 aa
 0 0 n
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/094.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/094.lab"
 0 0 si
 0 0 m
 0 0 uu
@@ -5900,8 +5993,9 @@
 0 0 a
 0 0 k
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/095.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/095.lab"
 0 0 si
 0 0 b
 0 0 a
@@ -5943,8 +6037,9 @@
 0 0 k
 0 0 u
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/096.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/096.lab"
 0 0 si
 0 0 m
 0 0 uu
@@ -5979,8 +6074,9 @@
 0 0 ng
 0 0 k
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/097.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/097.lab"
 0 0 si
 0 0 t
 0 0 r
@@ -5996,7 +6092,7 @@
 0 0 b
 0 0 e
 0 0 r
-0 0 ts
+0 0 c
 0 0 i
 0 0 n
 0 0 e
@@ -6033,8 +6129,9 @@
 0 0 s
 0 0 i
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/098.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/098.lab"
 0 0 si
 0 0 t
 0 0 r
@@ -6066,7 +6163,7 @@
 0 0 o
 0 0 j
 0 0 i
-0 0 ts
+0 0 c
 0 0 e
 0 0 z
 0 0 aa
@@ -6098,8 +6195,9 @@
 0 0 s
 0 0 u
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/099.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/099.lab"
 0 0 si
 0 0 b
 0 0 o
@@ -6108,7 +6206,7 @@
 0 0 m
 0 0 nj
 0 0 e
-0 0 ts
+0 0 c
 0 0 e
 0 0 l
 0 0 ee
@@ -6145,8 +6243,9 @@
 0 0 e
 0 0 rs
 0 0 si
+
 .
-"D:/VsTulPMR/data/Train/VacekVety/100.lab"
+"D:/VsTulPMR/data/Train/Studenti/VacekVety/100.lab"
 0 0 si
 0 0 p
 0 0 a
@@ -6193,4 +6292,5 @@
 0 0 nj
 0 0 ii
 0 0 si
+
 .

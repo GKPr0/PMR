@@ -37,11 +37,11 @@ def compute_variance(scp_file: str,
 
 
 def split_model_to_mixtures(model_def_file: str, target_folder: str, mixture_recipe: str,
-                            phonem_models0_file: str = defaults["models0_phonem"]):
+                            models0_file: str = defaults["models0_phonem"]):
     target_path = Path(target_folder)
     target_path.mkdir(parents=True, exist_ok=True)
 
-    cmd = f"HHed -H {model_def_file} -M {target_folder} {mixture_recipe} {phonem_models0_file}"
+    cmd = f"HHed -H {model_def_file} -M {target_folder} {mixture_recipe} {models0_file}"
     __run(cmd)
 
 
@@ -102,7 +102,7 @@ def __run(cmd: str, verbose: bool = True):
     result = subprocess.run(cmd.split(), capture_output=True, text=True)
 
     if len(result.stderr) > 0:
-        print(result.stderr)
+        raise Exception(result.stderr)
 
     if verbose:
         print(result.stdout)

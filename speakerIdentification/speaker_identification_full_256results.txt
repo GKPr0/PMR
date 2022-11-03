@@ -1,0 +1,8 @@
+====================== HTK Results Analysis =======================
+  Date: Thu Nov 03 09:50:37 2022
+  Ref : reference.mlf
+  Rec : speaker_identification_full_256results.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=370, S=0, N=370]
+WORD: %Corr=100.00, Acc=100.00 [H=370, D=0, S=0, I=0, N=370]
+===================================================================

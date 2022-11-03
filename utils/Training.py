@@ -1,9 +1,10 @@
 from pathlib import Path
 
-from utils import defaults
+from utils import defaults, prototypes
 from utils.HTKCommands import generate_parametrized_files, compute_variance, train_model, split_model_to_mixtures
 from utils.HTKUtils import generate_lab_from_phn, generate_mlf_file_for_lab_files, generate_param_list_file, \
-    generate_scp_file, generate_hmmdefs_file, generate_phonem_models0_file, generate_mixture_recipe_file
+    generate_scp_file, generate_hmmdefs_phonem_file, generate_phonem_models0_file, generate_mixture_recipe_file, \
+    generate_lab_from_file_folder_name, generate_models0_file, generate_hmmdefs_file
 
 
 def train_mono_model(data_root: str, target_root: str, iter_count: int,
@@ -24,7 +25,7 @@ def train_mono_model(data_root: str, target_root: str, iter_count: int,
 
     model_path = compute_variance(scp_file, target_root)
 
-    generate_hmmdefs_file(model_path)
+    generate_hmmdefs_phonem_file(model_path)
 
     train_model(target_root,
                 iter_count=iter_count,
@@ -33,17 +34,46 @@ def train_mono_model(data_root: str, target_root: str, iter_count: int,
                 models0_file=phonem_models0_file)
 
 
+def train_mono_model_for_speaker_identification(source: str, target_root: str, iter_count: int,
+                                                parametrize_data: bool = True,
+                                                mlf_file: str = defaults["train_mlf"],
+                                                scp_file: str = defaults["train_scp"],
+                                                param_list_file: str = defaults["train_param_list"],
+                                                speaker_identification_models0_file: str = defaults["models0_speaker_identification"]):
+    with open(source, mode="r") as f:
+        speakers = set(Path(line.strip()).parent.name.upper() for line in f.readlines())
+
+    generate_models0_file(speaker_identification_models0_file, speakers)
+    generate_lab_from_file_folder_name(source)
+    generate_mlf_file_for_lab_files(source, mlf_file)
+
+    if parametrize_data:
+        generate_param_list_file(source, param_list_file)
+        generate_parametrized_files(param_list_file)
+
+    generate_scp_file(source, scp_file)
+
+    model_path = compute_variance(scp_file, target_root, model_prototype_file=prototypes["model_1s_39f"])
+
+    generate_hmmdefs_file(model_path, speakers)
+
+    train_model(target_root,
+                iter_count=iter_count,
+                train_mlf_file=mlf_file,
+                train_scp_file=scp_file,
+                models0_file=speaker_identification_models0_file)
+
+
 def train_multi_from_mono_model(source_model: str, target_root: str,
                                 mixtures: [int], mixture_iters: [int],
                                 mlf_file: str = defaults["train_mlf"],
                                 scp_file: str = defaults["train_scp"],
-                                phonem_models0_file: str = defaults["models0_phonem"]):
+                                models0_file: str = defaults["models0_phonem"]):
     if len(mixtures) != len(mixture_iters):
         raise Exception("Mixtures and Mixtures iters params must have same length")
 
     last_model = source_model
     for mixture_count, mixture_iter in zip(mixtures, mixture_iters):
-
         mixture_recipe_file = f"com{mixture_count}mix"
         generate_mixture_recipe_file(mixture_recipe_file, mixture_count)
 
@@ -51,10 +81,11 @@ def train_multi_from_mono_model(source_model: str, target_root: str,
         target_first_model_folder = target_folder / "hmm0"
         split_model_to_mixtures(model_def_file=last_model,
                                 target_folder=str(target_first_model_folder),
-                                mixture_recipe=mixture_recipe_file)
+                                mixture_recipe=mixture_recipe_file,
+                                models0_file=models0_file)
 
         last_model = train_model(str(target_folder),
                                  iter_count=mixture_iter,
                                  train_mlf_file=mlf_file,
                                  train_scp_file=scp_file,
-                                 models0_file=phonem_models0_file)
+                                 models0_file=models0_file)
