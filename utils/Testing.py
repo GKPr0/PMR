@@ -12,6 +12,7 @@ def test_model_and_generate_result(model_root: str, model_iteration: int, gramma
                                    wlist_file: str, result_file: str, data_root: str,
                                    parametrize_data: bool = True,
                                    generate_lab_files: bool = True,
+                                   generate_report_file: bool = True,
                                    s: float = 70.0,
                                    p: float = 0,
                                    reference_mlf_file: str = defaults["reference_mlf"],
@@ -47,11 +48,12 @@ def test_model_and_generate_result(model_root: str, model_iteration: int, gramma
 
     generate_mlf_file_for_lab_files(data_root, reference_mlf_file)
 
-    return generate_report(report_file=result_file,
-                           wlist=wlist_file,
-                           result_mlf_file=result_mlf_file,
-                           reference_mlf_file=reference_mlf_file,
-                           confusion_matrix=confusion_matrix)
+    if generate_report_file:
+        return generate_report(report_file=result_file,
+                               wlist=wlist_file,
+                               result_mlf_file=result_mlf_file,
+                               reference_mlf_file=reference_mlf_file,
+                               confusion_matrix=confusion_matrix)
 
 
 def test_speaker_identification_model_and_generate_result(model_root: str, model_iteration: int, grammar_file: str,

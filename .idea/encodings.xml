@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/utils/resources/alphabet48-CZ.abc" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/keywordDetection/reference_text.txt" charset="windows-1250" />
     <file url="file://$PROJECT_DIR$/utils/resources/alphabet48-CZ.abc" charset="ISO-8859-1" />
   </component>
 </project>
