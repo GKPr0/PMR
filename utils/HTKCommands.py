@@ -98,6 +98,17 @@ def generate_report(report_file: str,
     return result
 
 
+def generate_bigram_wordnet(wordnet_file: str,
+                            wlist: str,
+                            reference_mlf_file: str,
+                            bigram_file: str = defaults["bigram"]):
+    cmd = f"HLStats -b {bigram_file} -s SENT-START SENT-END -o {wlist} {reference_mlf_file}"
+    __run(cmd)
+
+    cmd = f"HBuild -n {bigram_file} -s SENT-START SENT-END {wlist} {wordnet_file}"
+    __run(cmd)
+
+
 def __run(cmd: str, verbose: bool = True):
     result = subprocess.run(cmd.split(), capture_output=True, text=True)
 

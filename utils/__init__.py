@@ -7,6 +7,7 @@ class HTKParamTypes(str, Enum):
 
 
 defaults = {
+    "bigram": "bigram",
     "dict": "dict",
     "dlog": "dlog",
     "wordnet": "wordnet",
@@ -24,6 +25,7 @@ defaults = {
 resources = {
     "alphabet": pathlib.Path(__file__).parent / "resources\\alphabet48-CZ.abc",
     "comXmix": pathlib.Path(__file__).parent / "resources\\comXmix",
+    "g2p_cz_mapping": pathlib.Path(__file__).parent / "resources\\g2p_cz_mapping.json",
 }
 
 prototypes = {

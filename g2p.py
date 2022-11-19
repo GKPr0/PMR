@@ -1,29 +1,5 @@
-import json
-from collections import defaultdict
-import re
 
-
-def g2p(text, rule_file):
-    text = text.lower()\
-            .replace(" ", "_")\
-            .replace(",", "")\
-            .replace(".", "")\
-            .replace(";", "")\
-            .replace("?", "")\
-            .replace("!", "")
-
-    with open(rule_file, mode="r", encoding="utf8") as f:
-        rules = json.load(f)
-        for rule in rules:
-            in_seq = rule.get("in")
-            out_seq = rule.get("out")
-            context_before = rule.get("context_before", "")
-            context_after = rule.get("context_after", "")
-
-            text = re.sub(fr"({context_before})(?:{in_seq})({context_after})", fr"\1{out_seq}\2", text)
-
-    return text
-
+from utils.Utils import g2p
 
 if __name__ == "__main__":
 

@@ -1,8 +1,10 @@
 import re
 from pathlib import Path
+from unidecode import unidecode
 
 from utils import resources, HTKParamTypes
 from utils.ResultData import ResultData
+from utils.Utils import normalize_text, g2p
 
 
 def generate_wav_list_file(search_root: str,
@@ -12,7 +14,6 @@ def generate_wav_list_file(search_root: str,
 
     with open(list_file, mode="w") as f:
         f.writelines(wav_paths)
-
 
 def generate_lab_from_phn(source: str, alphabet: str = resources["alphabet"]):
     alphabet_dict = load_alphabet_dictionary(alphabet)
@@ -36,12 +37,15 @@ def generate_lab_from_phn(source: str, alphabet: str = resources["alphabet"]):
                 lab_f.writelines(lab_file_content)
 
 
-def generate_lab_from_txt(source: str):
+def generate_lab_from_txt(source: str, uniform_text: bool = False):
     txt_files = get_file_list_from_source(source, "txt")
 
     for txt_file in txt_files:
         with open(txt_file, mode="r", encoding="cp1250") as txt_f:
-            content = txt_f.readline().split()
+            if uniform_text:
+                content = unidecode(normalize_text(txt_f.readline()).upper()).split()
+            else:
+                content = txt_f.readline().split()
 
         lab_file = txt_file.with_suffix('.lab')
         with open(lab_file, mode="w", encoding="cp1250") as lab_f:
@@ -134,9 +138,9 @@ def generate_mixture_recipe_file(mixture_recipe_file: str, mixture_count: int):
         f.write(mixture_recipe)
 
 
-def load_alphabet_dictionary(file):
+def load_alphabet_dictionary(file, encoding="ansi"):
     convert_dict = {}
-    with open(file, mode="r", encoding="ansi") as f:
+    with open(file, mode="r", encoding=encoding) as f:
         for line in f.readlines():
             number, phnSym, labSym = line.split()
 
@@ -176,6 +180,45 @@ def generate_wlist_file_for_speaker_identification(wlist_file: str, source: str)
             f.write(f"{speaker}\n")
 
 
+def generate_wlist_file_from_data2(wlist_file: str, source: str, alphabet: str = resources["alphabet"]):
+    txt_files = list(Path(source).rglob("**/*.txt"))
+
+    words = set()
+    for txt_file in txt_files:
+        with open(txt_file, mode="r") as f:
+            text = g2p(f.read())
+            words.update(text.split())
+
+    converted_words = []
+    alphabet_dict = load_alphabet_dictionary(alphabet)
+    for word in words:
+        new_word = ""
+        for char in word:
+            new_word += alphabet_dict[char]
+        converted_words.append(new_word.upper())
+
+    converted_words.extend(["SENT-END", "SENT-START, SIL"])
+    converted_words = sorted(set(converted_words))
+    with open(wlist_file, "w") as f:
+        for word in converted_words:
+            f.write(f"{word}\n")
+
+
+def generate_wlist_file_from_data(wlist_file: str, source: str):
+    txt_files = list(Path(source).rglob("**/*.txt"))
+
+    words = {"SENT-END", "SENT-START", "SIL"}
+    for txt_file in txt_files:
+        with open(txt_file, mode="r") as f:
+            text = unidecode(normalize_text(f.read()).upper())
+            words.update(text.split())
+
+    words = sorted(words)
+    with open(wlist_file, "w") as f:
+        for word in words:
+            f.write(f"{word}\n")
+
+
 def generate_lexicon_file_for_speaker_identification(lexicon_file: str, source: str):
     with open(source, mode="r") as f:
         speakers = sorted(set(Path(line.strip()).parent.name.upper() for line in f.readlines()))
@@ -186,11 +229,108 @@ def generate_lexicon_file_for_speaker_identification(lexicon_file: str, source: 
         f.write("\n")
 
 
+def generate_lexicon_file_from_data(wlist_file: str, source: str, alphabet: str = resources["alphabet"]):
+    txt_files = list(Path(source).rglob("**/*.txt"))
+
+    words = {"SENT-END", "SENT-START, SIL"}
+    for txt_file in txt_files:
+        with open(txt_file, mode="r") as f:
+            text = f.read()
+            words.update(text.split())
+
+    alphabet_dict = load_alphabet_dictionary(alphabet)
+    to_htk_language = lambda text: " ".join(alphabet_dict[char] for char in text if char in alphabet_dict)
+
+    word_dict = {unidecode(normalize_text(word).upper()): to_htk_language(g2p(word)) for word in words}
+    word_dict["SENT-END"] = "[] si"
+    word_dict["SENT-START"] = "[] si"
+    word_dict["SIL"] = "si"
+
+    word_pairs = sorted(word_dict.items(), key=lambda item: item[0])
+
+    with open(wlist_file, "w") as f:
+        for word, graphen in word_pairs:
+            f.write(f"{word} {graphen}\n")
+        f.write("\n")
+
+def generate_lexicon_file_from_data2(wlist_file: str, source: str, alphabet: str = resources["alphabet"]):
+    txt_files = list(Path(source).rglob("**/*.txt"))
+
+    words = set()
+    for txt_file in txt_files:
+        with open(txt_file, mode="r") as f:
+            text = g2p(f.read())
+            words.update(text.split())
+
+    converted_words = []
+    alphabet_dict = load_alphabet_dictionary(alphabet)
+    for word in words:
+        new_word = ""
+        for char in word:
+            new_word += alphabet_dict[char]
+        converted_words.append(new_word.upper())
+
+    converted_words.extend(["SENT-END", "SENT-START, SIL"])
+    converted_words = sorted(set(converted_words))
+    with open(wlist_file, "w") as f:
+        for word in converted_words:
+            if word in ["SENT-END", "SENT-START"]:
+                f.write(f"{word} [] si\n")
+            elif word == "SIL":
+                f.write(f"{word} si\n")
+            else:
+                f.write(f"{word} {word.lower()}\n")
+        f.write("\n")
+
+
 def generate_grammar_file_for_speaker_identification(grammar_file: str, source: str):
     with open(source, mode="r") as f:
         speakers = sorted(set(Path(line.strip()).parent.name.upper() for line in f.readlines()))
 
     grammar = f"$speaker = {(' | '.join(speakers))};\n($speaker)"
+
+    with open(grammar_file, "w") as f:
+        f.write(grammar)
+
+
+def generate_word_loop_grammar_file_from_data(grammar_file: str, source: str):
+    txt_files = list(Path(source).rglob("**/*.txt"))
+
+    words = set()
+    for txt_file in txt_files:
+        with open(txt_file, mode="r") as f:
+            text = unidecode(normalize_text(f.read()).upper())
+            words.update(text.split())
+
+    words = sorted(words)
+
+    grammar = f"$word = {(' | '.join(words))};\n" \
+              "( {SENT-START} <$word> {SENT-END} )"
+
+    with open(grammar_file, "w") as f:
+        f.write(grammar)
+
+def generate_word_loop_grammar_file_from_data2(grammar_file: str, source: str, alphabet: str = resources["alphabet"]):
+    txt_files = list(Path(source).rglob("**/*.txt"))
+
+    words = set()
+    for txt_file in txt_files:
+        with open(txt_file, mode="r") as f:
+            text = g2p(f.read())
+            words.update(text.split())
+
+    converted_words = []
+    alphabet_dict = load_alphabet_dictionary(alphabet)
+    for word in words:
+        new_word = ""
+        for char in word:
+            new_word += alphabet_dict[char]
+        converted_words.append(new_word.upper())
+
+    converted_words = sorted(set(converted_words))
+
+    grammar = f"$word = {(' | '.join(converted_words))};\n" \
+              "( {SENT-START} <$word> {SENT-END} )"
 
     with open(grammar_file, "w") as f:
         f.write(grammar)
