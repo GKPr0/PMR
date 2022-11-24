@@ -11,8 +11,8 @@ if __name__ == "__main__":
     #generate_lexicon_file_from_data("lexicon", "..\\data\\Test\\SpojitaRec")
     #generate_word_loop_grammar_file_from_data("grammar", "..\\data\\Test\\SpojitaRec")
 
-    s = 40
-    p = 20  # best -60
+    s = 40  # best 40
+    p = 15  # best 15
 
     results = test_model_using_bigram_and_generate_result(
         data_root="..\\data\\Test\\SpojitaRec",

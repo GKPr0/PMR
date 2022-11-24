@@ -6,7 +6,7 @@ from utils import defaults, HTKParamTypes, train_configs, param_configs, prototy
 def generate_wordnet(grammar_file: str,
                      wordnet_file: str = defaults["wordnet"]):
     cmd = f"HParse {grammar_file} {wordnet_file}"
-    __run(cmd)
+    run(cmd)
 
 
 def generate_dictionary(wlist_file: str,
@@ -15,12 +15,12 @@ def generate_dictionary(wlist_file: str,
                         dlog_file: str = defaults["dlog"],
                         dict_file: str = defaults["dict"]):
     cmd = f"HDMan -m -w {wlist_file} -n {models0_file} -l {dlog_file} {dict_file} {lexicon_file}"
-    __run(cmd)
+    run(cmd)
 
 
 def generate_parametrized_files(param_list_file: str, param_config_file: str = param_configs[HTKParamTypes.MFC]):
     cmd = f"HCopy -T 1 -C {param_config_file} -S {param_list_file}"
-    __run(cmd)
+    run(cmd)
 
 
 def compute_variance(scp_file: str,
@@ -31,7 +31,7 @@ def compute_variance(scp_file: str,
     target_folder.mkdir(parents=True, exist_ok=True)
 
     cmd = f"HCompV -C {train_config_file} -f 0.01 -m -S {scp_file} -M {target_folder} {model_prototype_file}"
-    __run(cmd)
+    run(cmd)
 
     return str(target_folder / Path(model_prototype_file).name)
 
@@ -42,7 +42,7 @@ def split_model_to_mixtures(model_def_file: str, target_folder: str, mixture_rec
     target_path.mkdir(parents=True, exist_ok=True)
 
     cmd = f"HHed -H {model_def_file} -M {target_folder} {mixture_recipe} {models0_file}"
-    __run(cmd)
+    run(cmd)
 
 
 def train_model(target_folder: str,
@@ -61,7 +61,7 @@ def train_model(target_folder: str,
         cmd = f"HERest -C {train_config_file} -I {train_mlf_file} -t 250.0 150.0 1000.0 -S {train_scp_file} " \
               f"-H {current_hmm_file} " \
               f"-M {next_hmm_folder} {models0_file}"
-        __run(cmd)
+        run(cmd)
 
     final_model_file = str(target_path / f"hmm{iter_count}" / "hmmdefs")
     return final_model_file
@@ -80,7 +80,7 @@ def test_model(model_folder: str,
 
     cmd = f"HVite -H {model_def_path} -S {test_scp_file} -i {result_mlf_file} " \
           f"-w {wordnet_file} -p {p} -s {s} {dict_file} {models0_file}"
-    __run(cmd)
+    run(cmd)
 
 
 def generate_report(report_file: str,
@@ -90,7 +90,7 @@ def generate_report(report_file: str,
                     confusion_matrix: bool = False) -> str:
     cmd = f"HResults -e ??? SENT-START -e ??? SENT-END {'-p' if confusion_matrix else ''} -t -I {reference_mlf_file}" \
           f" {wlist} {result_mlf_file}"
-    result = __run(cmd)
+    result = run(cmd)
 
     with open(report_file, mode="w") as f:
         f.write(result)
@@ -103,13 +103,13 @@ def generate_bigram_wordnet(wordnet_file: str,
                             reference_mlf_file: str,
                             bigram_file: str = defaults["bigram"]):
     cmd = f"HLStats -b {bigram_file} -s SENT-START SENT-END -o {wlist} {reference_mlf_file}"
-    __run(cmd)
+    run(cmd)
 
     cmd = f"HBuild -n {bigram_file} -s SENT-START SENT-END {wlist} {wordnet_file}"
-    __run(cmd)
+    run(cmd)
 
 
-def __run(cmd: str, verbose: bool = True):
+def run(cmd: str, verbose: bool = True):
     result = subprocess.run(cmd.split(), capture_output=True, text=True)
 
     if len(result.stderr) > 0:

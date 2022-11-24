@@ -4,7 +4,7 @@ from unidecode import unidecode
 
 from utils import resources, HTKParamTypes
 from utils.ResultData import ResultData
-from utils.Utils import normalize_text, g2p
+from utils.Utils import normalize_text, g2p, get_file_list_from_source
 
 
 def generate_wav_list_file(search_root: str,
@@ -14,6 +14,7 @@ def generate_wav_list_file(search_root: str,
 
     with open(list_file, mode="w") as f:
         f.writelines(wav_paths)
+
 
 def generate_lab_from_phn(source: str, alphabet: str = resources["alphabet"]):
     alphabet_dict = load_alphabet_dictionary(alphabet)
@@ -60,6 +61,7 @@ def generate_lab_from_file_folder_name(source: str):
     for file in files:
         with open(file.with_suffix(".lab"), mode="w", encoding="cp1250") as lab_f:
             lab_f.write(file.parent.name.upper())
+
 
 def generate_mlf_file_for_lab_files(source: str,
                                     mlf_file: str):
@@ -163,13 +165,6 @@ def parse_result(result: str):
         return ResultData(0, 0, 0)
 
 
-def get_file_list_from_source(source: str, file_type: str):
-    if Path(source).is_dir():
-        return list(Path(source).glob(f"**/*.{file_type}"))
-    else:
-        with open(source, mode="r") as f:
-            return [Path(line.strip()).with_suffix(f".{file_type}") for line in f.readlines()]
-
 
 def generate_wlist_file_for_speaker_identification(wlist_file: str, source: str):
     with open(source, mode="r") as f:
@@ -181,7 +176,7 @@ def generate_wlist_file_for_speaker_identification(wlist_file: str, source: str)
 
 
 def generate_wlist_file_from_data2(wlist_file: str, source: str, alphabet: str = resources["alphabet"]):
-    txt_files = list(Path(source).rglob("**/*.txt"))
+    txt_files = get_file_list_from_source(source, "txt")
 
     words = set()
     for txt_file in txt_files:
@@ -205,7 +200,7 @@ def generate_wlist_file_from_data2(wlist_file: str, source: str, alphabet: str =
 
 
 def generate_wlist_file_from_data(wlist_file: str, source: str):
-    txt_files = list(Path(source).rglob("**/*.txt"))
+    txt_files = get_file_list_from_source(source, "txt")
 
     words = {"SENT-END", "SENT-START", "SIL"}
     for txt_file in txt_files:
@@ -230,7 +225,7 @@ def generate_lexicon_file_for_speaker_identification(lexicon_file: str, source: 
 
 
 def generate_lexicon_file_from_data(wlist_file: str, source: str, alphabet: str = resources["alphabet"]):
-    txt_files = list(Path(source).rglob("**/*.txt"))
+    txt_files = get_file_list_from_source(source, "txt")
 
     words = {"SENT-END", "SENT-START, SIL"}
     for txt_file in txt_files:
@@ -253,8 +248,9 @@ def generate_lexicon_file_from_data(wlist_file: str, source: str, alphabet: str 
             f.write(f"{word} {graphen}\n")
         f.write("\n")
 
+
 def generate_lexicon_file_from_data2(wlist_file: str, source: str, alphabet: str = resources["alphabet"]):
-    txt_files = list(Path(source).rglob("**/*.txt"))
+    txt_files = get_file_list_from_source(source, "txt")
 
     words = set()
     for txt_file in txt_files:
@@ -294,7 +290,7 @@ def generate_grammar_file_for_speaker_identification(grammar_file: str, source: 
 
 
 def generate_word_loop_grammar_file_from_data(grammar_file: str, source: str):
-    txt_files = list(Path(source).rglob("**/*.txt"))
+    txt_files = get_file_list_from_source(source, "txt")
 
     words = set()
     for txt_file in txt_files:
@@ -310,8 +306,9 @@ def generate_word_loop_grammar_file_from_data(grammar_file: str, source: str):
     with open(grammar_file, "w") as f:
         f.write(grammar)
 
+
 def generate_word_loop_grammar_file_from_data2(grammar_file: str, source: str, alphabet: str = resources["alphabet"]):
-    txt_files = list(Path(source).rglob("**/*.txt"))
+    txt_files = get_file_list_from_source(source, "txt")
 
     words = set()
     for txt_file in txt_files:
