@@ -1,0 +1,527 @@
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-02.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-02.rec
+ LAB: kdyû jsem ho uvidÏl tak    jsem   se  schoval za    ke¯   
+ REC:                     NEJSEM UDELAT SEM SE      SLOVA KTERI 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-03.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-03.rec
+ LAB: v dukle jsem zaËÌnal a jsem      r·d    ûe   se   teÔ  m˘ûu vr·tit 
+ REC:                        REPUBLICE ZACINA LEPE SAMA JSTE MUZU VRATIT 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-04.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-04.rec
+ LAB: zaËal tvrdÏ   trÈnovat a    p¯iöly prvnÌ ˙spÏchy 
+ REC:       ZACATKU JEDNE    NOVA TAKZE  TRHU  VSICHNI 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-05.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-05.rec
+ LAB: vystoupil jsem a   d·le    pokraËoval tramvajÌ 
+ REC:           JSOU SEM ZACATKU CASTO      NEMAJI   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-06.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-06.rec
+ LAB:            n·vötÏvnÌky s    problematikou sezn·mÌ jaroslav mich·lek ze    sokolovskÈho muzea 
+ REC: NAS ZIVOTE STOLETI     PLUS ZDA           MELO    CAS      NEUSTALE POZOR HOSTEM       ZDA   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-07.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-07.rec
+ LAB: ostravötÌ fotbalistÈ dnes nastoupÌ v       odvetÏ   prvnÌho  kola       poh·ru uefa proti    spartaku 
+ REC:                      ODS  DALSICH  OBLASTI EXISTUJE POLITIKA DEMOKRACIE HROZNE FAKT HLEDISKA OTAZKU   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-08.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-08.rec
+ LAB: t˝den potÈ se    lidÈ  navÌc mohou st·t svÏdky p¯epadenÌ tÏchto bunkr˘ 
+ REC: TYDEN POTE SLOVA NAVIC MU    STAT  SET  CTYRI  PRVNI     TECHTO DUVODU 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-10.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-10.rec
+ LAB: celkem kraj   ze    svÈho rozpoËtu poskytl  tÏmto organizacÌm pÏt  milion˘ korun 
+ REC:        CELKEM PRAZE SLOVO SPOUSTU  PODSTATE TOP   ORGANIZACE  OPET MILIONU KORUN 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-11.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-11.rec
+ LAB: na hlavnÌm pÛdiu veËer po    dev·tÈ nikdo nehr·l  
+ REC:            MOHOU VODY  VECER PRACE  NEKDO NEDAVNO 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-12.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-12.rec
+ LAB: jak si mladÌci povedou v        extralize napovÌ nedÏlnÌ z·pas proti    brnu 
+ REC:        JAKSI   NAVIC   EVROPSKA ZEMAN     POJDME DELAL   ZA    PODSTATE PRO  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-13.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-13.rec
+ LAB: v minulosti jste öel do     komun·lnÌch voleb    za     pravou volbu  pro   plzeÚ 
+ REC:                      NEMUSI SLYSENOU    NORMALNI CHTELA ZA     DRUHOU PROTO ZAJEM 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-15.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-15.rec
+ LAB: hlÌdky podle nÏj na mÌsto   v       r·mci moûnostÌ jezdÌ    ale   samy  zvÌ¯ata    nevidÏly 
+ REC:                     DESITKY POMERNE MISTO PRACE    MOZNOSTI JEZDI TAHLE SAMOZREJME VIDEL    
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-17.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-17.rec
+ LAB: mohou za    to   p¯edevöÌm apartm·ny kterÈ jsou  pro  ubytovatele pohromou ze    dvou  d˘vod˘ 
+ REC:       MOHOU TOTO PREDEVSIM ZEPTAT    VAMI  KTERE JSOU VOLBY       POPRVE   POTOM URADU DUVODU 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-18.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-18.rec
+ LAB: p¯estupnÌ stanicÌ pro   novorozence se      stal kojeneck˝ ˙stav  potom putovaly do        n·hradnÌch rodin 
+ REC:           PRESTO  BYSTE MOCI        PROBLEM CAS  SOUVISI   DOSTAT POTOM SIL      ODPOLEDNE NARODNI    HODIN 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-19.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-19.rec
+ LAB: pro firmu je    prohl·öenÌ ˙padku dalöÌm krokem  v      insolvenËnÌm ¯ÌzenÌ 
+ REC:     PRO   FIRMY VAS        NAOPAK DALSIM PROGRAM SMYSLU CIM          RIZENI 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-20.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-20.rec
+ LAB: v minulÈm roce  oslovilo vedenÌ   ˙stavu nÏkolik organizacÌ 
+ REC:           NEMEL EVROPSKE POSLEDNI USTAVU NIKOLIV ORGANIZACE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-21.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-21.rec
+ LAB: kvalitnÌ umÏleck· dÌla  mohou za¯adit do      svÈ aukce 
+ REC:          KOLIK    MESTA DELAL MUZE    REDITEL SVE AKCE  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-22.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-22.rec
+ LAB: bÏhem okamûiku si  tak    p¯iöel na      tÈmÏ¯ dvacetitisÌcovou kr·deû 
+ REC: DOBE  OKAMZIKU STA PRISLA TEMER  DVACETI TISIC VELKA            NAS    
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-23.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-23.rec
+ LAB: mÌch·te pÏt    stejn˝ch porcÌ drink˘ v    ËasovÈm limitu sedmi    minut 
+ REC: JINYCH  VRATIT JAKSI    NICH  POMOCI VEKU CHCE    SAMI   ZPUSOBEM MINUT 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-24.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-24.rec
+ LAB: na popul·rnÌ cyklostezce u       hodkovic nad mohelkou se     pletou brusla¯i cyklistÈ   i      auta     
+ REC:              NA          PODPORU REKL     SE  SLOVO    KOMISE MOHOU  USTAVU   POSLANECKE STEJNE NEUSTALE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-26.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-26.rec
+ LAB: hnutÌ bylo ˙spÏönÈ jiû v poslednÌch sen·tnÌch volb·ch v    roce       dva    tisÌce  öest   v      prvnÌm zlÌnskÈm obvodu 
+ REC:                          HNUTI      PLUS      TEZKE   JICH POSLEDNICH STATNI VOLBACH DOCELA TISICE SEST   OPOZICE  MOHOU  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-27.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-27.rec
+ LAB: jinak byste v     urËit˝ch f·zÌch  z·pasu nepoznali ûe hraje  öpiËka ligy  proti  ans·mblu ode       dna   tabulky 
+ REC:       JINAK DESET UZ       DOCHAZI ZAKON  SLOVA     PO ZALEZI RESIT  SKOLY ZIVOTE VACLAV   ODPOLEDNE STAVU TI      
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-28.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-28.rec
+ LAB: od r·na se budou n·vötÏvnÌci moci podÌvat na   dvÏ      unik·tnÌ  v˝stavy 
+ REC:         OD RANO  SEBOU       NASI ROCE    MOCI PODIVAME REPUBLIKA MISTA   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-31.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-31.rec
+ LAB: svazek obcÌ  na       ni     zÌskal t¯Ìmilionov˝ grant od   jihoËeskÈho kraje 
+ REC: CO     ZAKON VYSILANI ZISKAT TRI    MEHO         VITAM VODA CESKEHO     KRAJE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-32.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-32.rec
+ LAB: druh˝ poloËas od n·s  byl   lepöÌ a     zaslouûili jsme    si   nejmÌÚ vyrovnat 
+ REC:                  NOVY SPOLU CASTO VAZNE LEPSI      PROTOZE ZASE NYNI   ZROVNA   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-33.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-33.rec
+ LAB: shoduje se s     vrahem kter˝ nynÌ  leûÌ v   nemocnici 
+ REC:            SKORO VEC    ZAJEM KTERY NYNI LZE NEMOCNICE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-34.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-34.rec
+ LAB: pokud jeden p¯i   letu   selûe nahradÌ ho    jin˝   
+ REC:             POKUD JEDNAT LETOS LZE     PLATI CHVILI 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-36.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-36.rec
+ LAB: je     to urËitÏ nejjednoduööÌ cesta k    ˙spÏchu 
+ REC: TECHTO UZ TEMI   MENSI         CESTA PLUS TROCHU  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-37.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-37.rec
+ LAB: kvÏtiny by nikdy nemÏly b˝t    zvadlÈ  nebo opadanÈ v        zahnÌvajÌcÌ vodÏ 
+ REC:            PETI  NYNI   NEMELI DIVADLA NEBO POPRVE  ROZHOVOR VECI        DOBE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-38.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-38.rec
+ LAB: hr·Ëi se zaËnou do    prahy   slÈt·vat v     p·tek patn·ctÈho srpna   
+ REC:          VRATIT ZACAL DOPRAVY SE       DAVAT PAK   VYPADA     SPOUSTA 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-39.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-39.rec
+ LAB: takovÈ a podobnÈ obhajoby jsem  Ëetl nebo slyöel uû       mnohokr·t 
+ REC:          TAKOVE  TAKOVEHO VOLBY SEM  REKL NEBO   SLYSENOU VELKA     
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-40.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-40.rec
+ LAB: na kaûdÈm z     hrad˘ budou  mÌt n·vötÏvnÌci navÌc moûnost bezplatnÏ stanovat 
+ REC:           TAKZE URAD  UROVNI VAS ODS         NAVIC MOZNOST SPOUSTA   NOVA     
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-42.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-42.rec
+ LAB: pokaûdÈ nÏkterÈ kluby p¯ekvapÌ  a     jinÈ   selûou   
+ REC:         POTE    ZIVOT REPUBLICE PLATI STEJNE SLYSENOU 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-44.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-44.rec
+ LAB: ËlovÏk musÌ b˝t neust·le v rotaci musÌ   mÌt    po¯·d hokejku na       zemi  
+ REC:                            CLOVEK MUSIME DOSTAL PRACE PLUS    NEKOLIKA ZEMAN 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-45.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-45.rec
+ LAB: vych·zejÌ z       kaûdoroËnÌho poËtu narozen˝ch a       zem¯el˝ch lidÌ  jednotliv˝ch roËnÌk˘  
+ REC:           DOCHAZI SKORO        DOSLO POSTUPNE   RUZNYCH PROSTREDI CHYBI JEDNOTLIVYCH TROSICKU 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-47.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-47.rec
+ LAB: oznaËil ho za    hlavnÌho vinÌka mafi·nsk˝ch praktik 
+ REC:         PO ZACAL ZAROVEN  VITAM  FINANCI     CHCETE  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-48.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-48.rec
+ LAB: p¯edseda paroubek ¯ekl co si o        tÈ      situaci myslÌ a    jak     by     ji   vy¯eöil 
+ REC:                              PREDSEDA PROBLEM REKL    SICE  POTE SITUACI MUSITE DOBE PRISEL  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-54.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-54.rec
+ LAB: zatÌm se to vöak da¯Ì    jen   u    dvaceti procent 
+ REC:                  ZATIMCO PORAD DARI DVACETI PROCENT 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-55.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-55.rec
+ LAB: hlavnÌ argument   byl      ûe       souËasnÈ z·kony staËÌ 
+ REC: HLAVNI PARLAMENTU TELEVIZE SOUCASNE ZAKONA   STA    CI    
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-57.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-57.rec
+ LAB: karlovarsk˝ porcel·n vyr·bÌ porcel·n pro  dom·cnosti a      hotelov˝ porcel·n 
+ REC: OBLASTI     VACLAV   RADY   PORADKU  DOMA CAS        NEKOHO SVOJI    PRACOVAT 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-58.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-58.rec
+ LAB: nabÌdku k jedn·nÌ majÌ uû      i    nez·vislÌ starostovÈ pro  kraj  
+ REC:           NEVI    TOP  JEDNANI MAJI MUSIME    ZALEZITOST LEPE KRAJE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-59.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-59.rec
+ LAB: st·t tehdy nevyuûil pr·va  na    odvol·nÌ a        rovnou penÌze vyplatil 
+ REC:            STAT     STEJNE DOSLO PRAVO    NORMALNI ANO    PENIZE PODARILO 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-60.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-60.rec
+ LAB: tyto v˝padky znamenajÌ ûe  kresta je pot¯etÌ mistrem republiky 
+ REC: TI   PODIVAT ZNAMENA   JIZ AKCE   PO PREDTIM JSEM    REPUBLIKY 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-63.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-63.rec
+ LAB: letiötÏ v     bocho¯i projde dÏlenÌm majetku jehoû soupis  uû probÌh· 
+ REC: PLATI   CHTEL BOHUZEL PODLE  VIDEL   NEMECKU JO    SOUVISI S  PROBIHA 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-64.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-64.rec
+ LAB: cesta mÏstem byla  ned·vno vyhodnocena jako   jedna z     nejvÌce zatÌûen˝ch hlukem v    kraji 
+ REC:       CESTA  MESTA VAMI    RANO        HROZNE KRAJE VAZNE VICE    TOTIZ      MOHOU  TECH KRAJE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-66.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-66.rec
+ LAB: p¯i obnovÏ pomnÌku vych·zel z     dobov˝ch pohlednic a   historick˝ch z·znam˘ 
+ REC:     REKL   POHLEDU NIKOLIV  NAZOR TAKOVYCH POHLEDU   CAS PRACI        NAZORU  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-68.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-68.rec
+ LAB: osobnÏ povaûuji za      nejvÏtöÌ  minus    kraje chybÏjÌcÌ d·lnici a    nÌzkÈ  pr˘mÏrnÈ platy 
+ REC:        OSOBNE   POLICIE ZAHRANICI MINISTRA JESTE VECI      DA      ROCE PROSTE POMERNE  PRACE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-69.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-69.rec
+ LAB: m·me tady fajn partu uËitel˘ r·di   tady   uËÌme 
+ REC:           MAM  TADY  TENKRAT USTAVU PRAVDU CIM   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-70.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-70.rec
+ LAB: dûeko uû po zranÏnÌ hr·l snad se      mu   proti n·m      da¯it nebude 
+ REC:                     REKL PLUS POZVANI HRAT CASU  PODIVAME REKNE BUDE   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-71.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-71.rec
+ LAB: kdekdo jej m˘ûe kritizovat jestli to   dÏl·   vÌce Ëi  mÈnÏ öikovnÏ 
+ REC:        KDY DOBE MUZETE     ZROVNA SPIS VYPADA VICE CIM ANI  SKOLY   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-73.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-73.rec
+ LAB: naopak mu p¯itÌûilo ûe     uû    byl dvakr·t trestan˝ a     vraûdu sp·chal ve    zkuöebnÌ dobÏ    
+ REC:                     NAOPAK TOTIZ O   SIL     ZIVOTA   PRACE SAMI   PAVEL   STALE SPISE    PODOBNE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-76.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-76.rec
+ LAB: bafuÚ·¯i z jin˝ch zemÌ to     vidÌ a      budou v       pokuöenÌ jÌt        stejnou cestou 
+ REC:                        OTAZKU JA   RIZENI ZEMI  PODIVAT TAKOVOU  ZKUSENOSTI CENU    PRESTO 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-80.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-80.rec
+ LAB: ty dvojice se hlÌdaly aû do     z·vÏru a      souboje  byly  tÏsnÏjöÌ 
+ REC:               KVULI   CZ RIKALI KAZDA  VELKOU ZPUSOBEM LETOS MENSI    
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-82.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-82.rec
+ LAB: radnice by vydÏlala o         sto      milion˘ vÌce 
+ REC:                     PROSTREDI NAPROSTO MILIONU VICE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-83.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-83.rec
+ LAB: lipence rekonstruuji rodinn˝  domek  v    lipencÌch na    okraji prahy 
+ REC:         LEPE         VYSLEDEK MUSELI ROLI DALEKO    PRACI NOVE   PRAHY 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-85.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-85.rec
+ LAB: majitel vyËÌslil ökodu na    vÌce  neû   sto    tisÌc korun 
+ REC:                  MYSLI CISLO SKORO NAVIC NECHCE TISIC KORUN 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-86.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-86.rec
+ LAB: na ja¯e ovöem hr·l pouze t¯etÌ ligu  protoûe se      zotavoval z     komplikovanÈ zlomeniny nohy   
+ REC:         NE    REKL VCERA POUZE TRETI VEKU    PROTOZE SPOUSTU   ASPON TAKOVE       ZEME      NEBUDE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-88.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-88.rec
+ LAB: do grantov˝ch program˘ letos    p¯ibyla  ve    srovn·nÌ s        minul˝mi lety nÏkter· nov· tÈmata 
+ REC:               DOBY     TAKOVYCH PROGRAMU LETOS TREBA    VYSILANI MYSLIM   LETY NECHCE  DAVA ZEMANA 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-91.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-91.rec
+ LAB: p¯itom v nich   se   vyrovnanÈ duely rozhodujÌ  
+ REC:          PRITOM NICH ZROVNA    VEDLE ROZHODNUTI 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-95.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-95.rec
+ LAB: p˘sobÌ       dojmem jako   by    mistr odeöel p¯ed     nÏkolika minutami 
+ REC: POCHOPITELNE MY     JAKOBY MESTO DOSLO PRED   NEKOLIKA MINUT    SAMI     
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-96.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-96.rec
+ LAB: nÏkter˝m tekla z       kohoutk˘ chvÌlemi voda ˙plnÏ  kaln· 
+ REC:                NEKTERI OTAZKU   DEKUJEME VODA POPRVE DAVA  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-98.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-98.rec
+ LAB: koupaliötÏ se mÏlo otev¯Ìt v     polovinÏ p¯ÌötÌ sezÛny 
+ REC:               TUTO VASE    SLOVA RICT     LEPSI  CELY   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-99.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MAR/MAR-99.rec
+ LAB: mÏsÌËnÌ n·jem tedy ËinÌ     ani ne öest tisÌc korun 
+ REC:         MUSI  CI   NEJVETSI ANI NE SEST TISIC KORUN 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-00.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-00.rec
+ LAB: pracovnÌ plochu nahradila obrazovka s      n·zvem start 
+ REC:          TAKOVY DOPOLEDNE DOTAZ     OTAZKA ZEMAN  STAT  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-01.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-01.rec
+ LAB:      v      dlaûdicÌch seskupuje nejpouûÌvanÏjöÌ programy 
+ REC: VODA TISICE SKUPINY    BOHUZEL   MENSI           PROGRAM  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-03.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-03.rec
+ LAB: speci·lnÌ sÌly nato vzaly    v         ˙ter˝   ˙tokem italskou loÔ       
+ REC:                     SOCIALNI SHLEDANOU POHLEDU TRHU   BUDEME   POSLUCHAC 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-04.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-04.rec
+ LAB: v p¯edchozÌ den    unesla pÏtice  n·mo¯nÌch pir·t˘ ze    som·lska 
+ REC:             PRESTO ZEMANA STOLETI ZEMANA    ZITRA  POUZE SPOUSTA  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-05.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-05.rec
+ LAB:         vöeobecn· zdravotnÌ pojiöùovna VZP se     v     ˙ter˝   ohradila proti  nÏkter˝m zpr·v·m 
+ REC: SLO BEZ A         ZDRAVOTNI LZE        ME  ZEPTAT STAVU DIVADLA PRVNI    KTERYM ZDA      VAM     
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-06.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-06.rec
+ LAB: nem· penÌze na    hrazenÌ zdravotnÌ pÈËe 
+ REC: NEMA PENIZE MNOHA ZEMI    ZDRAVOTNI TYCE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-07.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-07.rec
+ LAB: bydlenÌ na vesnici v      blÌzkosti velkÈho      mÏsta teÔ   letÌ  
+ REC:                    VEDENI NEMOCNICE MINISTERSTVO KROME STATY PLATI 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-08.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-08.rec
+ LAB: zd· se v·m ûe  nem·te v˝daje za   mobilnÌ telefony pod    kontrolou? 
+ REC:            ZDA SAMA   MUZEME MATE VZDY    ZHRUBA   DALEKO NEBUDOU    
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-10.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-10.rec
+ LAB: s dopravnÌmi komplikacemi musejÌ v      ˙ternÌ odpoledne poËÌtat ¯idiËi smÏ¯ujÌcÌ na   slovensko 
+ REC:   ZDRAVIM    REPUBLIKA    CO     NEMUSI UROVNI ODPOLEDNE MOC     PATRI  CESKY     RICI NAPROSTO  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-11.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-11.rec
+ LAB:       ¯ecko z¯ejmÏ novou Ë·st z·chrannÈho ˙vÏru  dostane 
+ REC: CESKA ZEME  NEBO   CAST  ZASE MEHO        DUVERU DOSTANE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-12.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-12.rec
+ LAB:      pl·n     sniûov·nÌ rozpoËtovÈho deficitu v   letoönÌm roce   nesplnÌ 
+ REC: PLUS VYSILANI ASPON     CLOVEKA      DESETI   PUL DNESNIM  DOCELA STOJI   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-14.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-14.rec
+ LAB:       prohled·val mÌstnÌ odpadkovÈ kontejnery 
+ REC: PRAVA MISTO       NAOPAK KOLIK     UDELALI    
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-15.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-15.rec
+ LAB: soudnÌ tahanice o    to    kdo m˘ûe za   zapomenutou öpachtli v    tÏle   pacientky p¯i     operaci b¯icha nekonËÌ 
+ REC:        OSOBNI   TADY CELOU TOP KDO  MUZE ZA          ZAKONA   DOBU SPATNE CHTELA    DVACETI SITUACE RIKATE KONCE   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-16.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-16.rec
+ LAB: do vÏdy a v˝zkumu ölo      loni v    Ëesku tÈmÏ¯ öedes·t miliard korun 
+ REC:           DOBE    NEJAKYCH MUZU NOVY CESKU TEMER CEM     SAM     JAKOU 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-19.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-19.rec
+ LAB: uvedla to televize s      tÌm   ûe      propouötÏnÌ zaËne ve    st¯edu 
+ REC:                    DUVERU PODLE ZATIMCO PROTOZE     NI    ZACNE STAVU  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-20.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-20.rec
+ LAB: eurozÛna by mÏla p¯istupovat k       rekapitalizaci evropsk˝ch bank    na   individu·lnÌm z·kladÏ nikoli  kolektivnÏ 
+ REC:                  DRUHA       ZNAMENA PRISTUP        ORGANIZACE OBLASTI PANA JEDNANI       ZAKLADE NEKOLIK VLASTNE    
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-22.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-22.rec
+ LAB: slovensk· vl·da je na    pokraji p·du      kv˘li   spor˘m ohlednÏ podpory balÌku   finanËnÌ pomoci eurozÛny krachujÌcÌmu ¯ecku   
+ REC:                    SLOVA STALE   REPUBLIKA ROZHLAS TOMHLE PODPORU DALEKO  FINANCNI DOMU     CENU   ROZHODNE NAVIC        NEMECKU 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-23.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-23.rec
+ LAB: policistÈ ve st¯Ìb¯e   na   tachovsku vyöet¯ujÌ  dopravnÌ nehodu  
+ REC:              POLITICKE VECI ZEPTAT    ZKUSENOSTI DOPRAVY  NEBUDOU 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-24.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-24.rec
+ LAB: dÌtÏ se   narodilo zdravÈ 
+ REC: DITE SAMA NEBYLO   PRAVE  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-26.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-26.rec
+ LAB: b˝valou ukrajinskou premiÈrku Julii tymoöenkovou poslal v       ˙ter˝     kyjevsk˝ soud  na         sedm  let     do        vÏzenÌ 
+ REC:                                     VIM          MLUVIL SKUPINY REPUBLIKY MUZE     MOHOU POSLEDNICH JEZDI SOUVISI NULADEVET ZEMI   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-27.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-27.rec
+ LAB: nejhoröÌ ekologickou katastrofu zaûÌv· tento  t˝den nov˝  zÈland 
+ REC: MENSI    NAKONEC     TOHOTO     STAVU  ZACINA TENTO TYDEN VITAM  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-28.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-28.rec
+ LAB: p¯ÌËinou ˙mrtÌ    spoluzakladatele firmy apple  steva jobse   byla        z·stava dechu   
+ REC:          VETSINOU HNUTI            SPOLU ZACALA FIRMY OBLASTI RADIOZURNAL OTAZKA  ABYCHOM 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-29.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-29.rec
+ LAB: mezin·rodnÌ skupina obchodnÌk˘  s       rohy     nosoroûc˘   
+ REC:                     MEZINARODNI SKUPINA OKAMZIKU SOUVISLOSTI 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-30.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-30.rec
+ LAB: nÏkolik  let   öÈfoval miroslav rouöal karlovarskÈ krimin·lce 
+ REC: NEKOLIKA CESKU VAM     ROZHLASU DOSLO  PROSTE      POMOC      
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-31.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-31.rec
+ LAB: vyhovovala by    v·m zmÏna nÏkterÈho z·kona 
+ REC: MEHO       VOLBY VAM ZEMAN KTEREHO   ZAKONA 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-32.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-32.rec
+ LAB: advok·ty pobou¯il p¯edseda mÏstskÈho soudu    v       praze    jan   sv·Ëek      
+ REC:          TAKOVA   TENTO    BUDOU     PREDSEDA VZDYCKY ROZHOVOR PRAZE JEDNOZNACNE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-33.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-33.rec
+ LAB:     francouzötÌ vÏdci objevili ob¯Ì vir 
+ REC: VAM PRISTI      VEC   NEBYLO   PRI  ME  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-34.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-34.rec
+ LAB: skupina pÏti som·lsk˝ch pir·t˘ v    pondÏlÌ r·no unesla v    indickÈm   oce·nu italskou loÔ   
+ REC:              SKUPINA    PETI   SAMA ZITRA   TUTO DEJE   PANU POSLANECKE MOC    PANU     POKUD 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-35.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-35.rec
+ LAB:        evropa musÌ vytvo¯it fisk·lnÌ unii 
+ REC: PRAVDU POMOCI KDO  RICI     STATNI   MI   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-36.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-36.rec
+ LAB:                  jeden z  nejvÏtöÌch poskytovatel˘ internetovÈho p¯ipojenÌ pro   dom·cnosti v        Ëesku 
+ REC: JEDEN Z NEJVETSI PO    SI TOHOTO     MUZETE        NEBYL         POTREBUJE NIKDO DOMA       MOZNOSTI CESKU 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-37.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-37.rec
+ LAB: odstavov·nÌ nÏmeck˝ch jadern˝ch zdroj˘ zvyöuje v˝znam temelÌna 
+ REC: POSLEDNI    NEMECKU   DITE      JEDNIM RUZNYCH VIDIM  DNESNIM  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-38.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-38.rec
+ LAB: v p·tek bude  v    pavilÛnu a     na    brnÏnskÈm v˝staviöti z¯ejmÏ po¯·dnÏ ruöno 
+ REC:         STATY BUDE PROBLEMU ANEBO NEKDE MISTA     STESTI     NEKDO  RADI    MOZNA 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-39.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-39.rec
+ LAB: drûel jsem se      v˝kladu pr·vnÌk˘ a        vinu    necÌtÌm 
+ REC:            BOHUZEL SAM     ZATIMCO  OKAMZIKU NAKONEC VIDIM   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-40.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-40.rec
+ LAB: st·tnÌ dluh ËeskÈ republiky se     od        poË·tku roku do      konce z·¯Ì   zv˝öil 
+ REC:                   STATNI    URCITE REPUBLIKY ZACATKU ROKU DOKONCE ZA    RIZENI SLO    
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-41.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-41.rec
+ LAB:         nedÏlnÌ z·sah   egyptsk˝ch ozbrojen˝ch sil   proti demonstrujÌcÌm 
+ REC: JEDNANI ZASADNI CESKYCH POSLEDNICH SOBE        LIDEM STOJI TIM            
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-42.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-42.rec
+ LAB: letoönÌ nobelovu cenu za     ekonomii zÌskali ameriËtÌ ekonomovÈ 
+ REC: LEPSI   NEBUDOU  CENU ZAKONA MEZI     KOLEM   DETI     REKNEME   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-43.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-43.rec
+ LAB: benzÌn i nafta      zamÌ¯ily s    cenou u       tuzemsk˝ch ËerpacÌch stanic minul˝ t˝den nepatrnÏ dol˘ 
+ REC:          PREZIDENTA ZEMI     CELE CENU  RUZNYCH CEKA       ZISKAT    NIC    MYSLIM TYDEN OPATRENI DOMU 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-45.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-45.rec
+ LAB: ani ömoulovÈ ani    alois nebel nedok·ûou sesadit komedii muûi v    nadÏji z     prvnÌ p¯ÌËky 
+ REC:              RYCHLE PANI  DALE  SVEHO     PROGRAM CSSD    KAM  LIDI MUZE   NAVIC PRVNI PRISTI 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-46.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-46.rec
+ LAB: praha ve    st¯edu vyhl·sÌ v˝bÏrovÈ ¯ÌzenÌ na ¯editele dvou divadel 
+ REC:       PRAVA ZCELA  SYRII   DRUHE    RIZENI NA REDITEL  DVOU DIVADLA 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-47.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-47.rec
+ LAB: v˝bornÏ zaËal televiznÌ t˝den    pro   primu    
+ REC: VIM     ONI   ZACAL     TELEVIZI TYDEN PROBLEMU 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-51.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-51.rec
+ LAB: mumie p¯itahujÌ naöi pozornost svou tajemnostÌ oded·vna 
+ REC: MNE   DEKUJI    NASI POHLEDU   HOST ZKUSENOSTI NEDAVNO  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-52.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-52.rec
+ LAB: v dalöÌm retro vÌkendu se   podÌv·me na       v˝roËÌ vlivnÈho hudebnÌho   po¯adu 
+ REC:                NASIM   ROLI KOMISE   PODIVAME NEVI   ZACINA   DOPOLEDNIHO PORADU 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-53.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-53.rec
+ LAB:        b˝val˝ rakousk˝ kulturista pozdÏji ˙spÏön˝ hollywoodsk˝ herec  a     potÈ kalifornsk˝ guvernÈr 
+ REC: CHVILI ROKU   SKUPINY  STA        POZDEJI UZ      DNESNIHO     MUSIME STATU TEDA FINANCI     UPLNE    
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-54.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-54.rec
+ LAB: to spojenÌ je    tÏûko uvÏ¯itelnÈ 
+ REC: TO SPOJENI TEZKO MUJ   PRITOM     
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-55.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-55.rec
+ LAB: novinkami tohoto  t˝dne  budou   p¯edevöÌm detektivnÌ p¯ÌbÏhy 
+ REC:           POMERNE POMOCI NEBUDOU PREDEVSIM VEDENI     PRILIS  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-56.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-56.rec
+ LAB: ke     sv˝m    dosavadnÌm pÏveck˝m trofejÌm p¯i¯adÌ i        titul rozhlasov˝ moder·tor roku 
+ REC: PROSIM ROZUMIM NEMECKU    MYSLIM   RADI     TYPU    ROZHLASU VIM   DAVAT      ONA       ROKU 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-57.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-57.rec
+ LAB: ve Ëtvrtek veËer zaËne v     pÌsku   
+ REC:    MOC     TADY  VECER ZACNE SPOUSTU 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-58.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-58.rec
+ LAB: dva japonskÈ soubory vystoupÌ v   nedÏli   a      v     pondÏlÌ v      praûskÈm divadle archa  
+ REC:                               DVE ROZHLASU BUDEME STOJI VIDEL   TAKOVY STRASNE  DIVADLA CHTELA 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-59.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-59.rec
+ LAB:         lÈka¯i posoudÌ trenÈr rozhodne 
+ REC: POTREBA SVOJI  SIL     TENHLE ROZHODNE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-60.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-60.rec
+ LAB: na moje problÈmy neexistuje odpovÏÔ  ani       ¯eöenÌ 
+ REC:         ME       PROBLEMY   MINISTRA DOPOLEDNE RESENI 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-61.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-61.rec
+ LAB: ale chleba si     tam     nekoupÌm mrzÌ gÛlmana 
+ REC:            TROCHU DOSTANE DOBY     MEZI KOLEM   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-62.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-62.rec
+ LAB: vyhovÏl tak   plnÏ ûalobÏ 
+ REC: MLUVIL  TAKTO KDYZ DOBE   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-63.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-63.rec
+ LAB: sluneËn˝ û·r    otestoval fyziËku  i     techniku 
+ REC: FINANCNI ZADNOU DOSTAL    TROSICKU VIDET VEKU     
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-64.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-64.rec
+ LAB: v˝prodej letnÌch pneumatik s        v˝raznou  slevou 
+ REC:                  VITE      NEJLEPSI NULADEVET USTAVU 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-65.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-65.rec
+ LAB: vöechny v˝hody v       jednom povinnÈm ruËenÌ!  
+ REC:                VSECHNY VIME   NEJENOM  FINANCNI 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-66.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-66.rec
+ LAB: mnoûstvÌ vir˘     pro  mobily se   letos proti  loÚsku zdvojn·sobÌ 
+ REC:          MNOZSTVI VEKU DOMU   PRES LETOS TROSKU SVOJE  OSOBNI      
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-68.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-68.rec
+ LAB: poËÌtaËov˝ virus napadl     americk· bezpilotnÌ letadla 
+ REC: POCIT      CISLO POSLANECKE ABY      ZDRAVOTNI  VYPADA  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-69.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-69.rec
+ LAB: jobse v       tichosti poh¯bila rodina 
+ REC:       DVACETI ROZDIL   POTREBA  RODINY 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-70.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-70.rec
+ LAB: nejvÏtöÌ led televizor na      planetÏ  vyr·bÌ  sharp     
+ REC:                        VETSINA TELEVIZE NAKLADY DEVADESAT 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-71.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-71.rec
+ LAB: internetovÈ obchody musÌ   p¯i    vracenÌ zboûÌ   novÏ  z·kaznÌk˘m vracet   i       penÌze za poötovnÈ 
+ REC:                     VYPADA TROCHU NEMUSI  FINANCI SVOJI NOVE       ZAKLADNI DVACETI PENIZE ZA POSTUPNE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-72.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-72.rec
+ LAB: rekordnÌ rozpoËet na      Ëeskou vÏdu a      v˝zkum z       poloviny hradily firmy 
+ REC:                   PROGRAM MESTO  CEM  CESKOU BUDU   ABYCHOM SPOLU    DIVADLA FIRMY 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-73.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-73.rec
+ LAB:        nejöikovnÏjöÌ studenti ¯emesel soutÏûili v    praze 
+ REC: DNESKA MESIC         POLITICE NAZOR   TOTIZ     DNES PRAZE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-74.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-74.rec
+ LAB: nobelovu cenu   za    chemii zÌskal izraelec kterÈmu nevÏ¯ili 
+ REC:          NEBYLO UZEMI ZACNE  MISTO  ROZHLAS  TEMER   ALE      
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-75.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-75.rec
+ LAB:         Ëesk˝    student zaûije stav beztÌûe 
+ REC: CESKYCH PODMINKY ZACNE   STAT   BEZ  KRIZE   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-76.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-76.rec
+ LAB: smÏjte se   vÌc  radÌ     zahraniËnÌ studenti 
+ REC:        SICE ZEMI ZAKLADNI ZAHRANICI  STOLETI  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-77.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-77.rec
+ LAB: nad arktidou je     ozÛnov· dÌra ˙bytek je    rekordnÌ 
+ REC: NA  FAKT     DUVERU SLOVA   RIKA SIL    VUBEC DEKUJI   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-78.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-78.rec
+ LAB: v      pardubicÌch zaËÌn· univerzita volnÈho  Ëasu 
+ REC: PARDON VIDIM       ZACINA MEZI       PROBLEMU CASU 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-79.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-79.rec
+ LAB: o titul mladÈho   gÈnia se     utk·  p¯es dvacet tisÌc z·jemc˘ 
+ REC:         ODPOLEDNE DOBE  NAZORU PRACE ZASE TISIC  ZAJEM TRHU    
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-80.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-80.rec
+ LAB: ËÌna vyslala do kosmu  prvnÌ modul  pro   budoucÌ orbit·lnÌ  stanici 
+ REC:              CI NAZORU OSM   PRVNIM DOBRA BUDU    SOCIALNICH PENIZE  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-81.lab vs D:/VsTulPMR/data/Test/SpojitaRec/MON/MON-81.rec
+ LAB: nejlepöÌ ökola zaujala i       hodinou fyziky    
+ REC: NEJLEPSI SKOLY ZA      UDELALI HODINY  PREZIDENT 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-01.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-01.rec
+ LAB: Dom·cnosti budou mÌt     p¯ÌötÌ  rok    prvnÌ    p¯Ìleûitost koupit si      st·tnÌ dluhopisy    
+ REC:                  DVACETI TAKOVYM PRISTI OBCHODNI PRILIS      DOST   KOALICE STATNI POCHOPITELNE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-02.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-02.rec
+ LAB: PilotnÌ emisi    v    objemu deset miliard korun vyd·         Ministerstvo financÌ LidÈ si      budou moci  koupit dluhopis za   nejmÈnÏ tisÌc korun 
+ REC: ZIVOTNI NEMYSLIM SOBE MU     DESET NEJAKOU NEDA  MINISTERSTVA FINANCI      SIL     LIDE NEBUDOU MOCI  KOLIK MOHOU  BYSTE    ZEMI NYNI    TISIC KORUN 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-03.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-03.rec
+ LAB:               OËek·v·me tak   vÏtöÌ  zapojenÌ   ve¯ejnosti do      spoleËenskÈho hospoda¯enÌ Je     to    bezpeËn˝  konzervativnÌ instrument 
+ REC: POLITIKA VAMI TAK       VETSI DEKUJI VEREJNOSTI DOSTALI    CESKEHO OPATRENI      SIL         JAKOBY ZACIT PREZIDENT JEDNIM        STANE      
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-04.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-04.rec
+ LAB: Pokud se    pilotnÌ emise o   svÏdËÌ bude st·t dluhopisy vyd·vat ve   velkÈm od         roku dva tisÌce dvan·ct    
+ REC:       POUZE VLASTNI TEMI  CAS VETSI  SIL  BUDE STATY     DOBY    SEBE DAVAT  DEVATENACT ROKU DVA TISICE DEVATENACT 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-05.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-05.rec
+ LAB: Do budoucna bych chtÏl  aby  se    obligacemi s         oznaËenÌm spo¯ÌcÌ st·tnÌ  dluhopisy financovalo aû   patn·ct procent st·tnÌho dluhu    jak je     to  bÏûnÈ v     jin˝ch zemÌch Evropy 
+ REC:                  DUVODU SNAD CHTEL PLATIT     REPUBLIKA TEMI      KONCE   NEMECKU RICI      STATNI      DOBY SKUPINA ZEMANA  STRANA   SOCIALNI HO  DRUHOU SIL PETI  TOTIZ PENIZE MIT    EVROPE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-06.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-06.rec
+ LAB: P¯ÌötÌ rok budou dluhopisy nabÌzet banky  pokud se   systÈm osvÏdËÌ a     bude    o   tuto investici z·jem od       roku  dva tisÌce    dvan·ct se         distribuce rozöÌ¯Ì i      na    instituce kotovanÈ na     burze  a      CzechPointech 
+ REC:                  PRISTI    NEBUDOU DLOUHO BYSTE NEVI ZEMANA TI      POUZE SYSTEMU ASI CI   ANO       JAKO  POLITICI ZAJEM SIL DOPOLEDNE TISICE  DEVATENACT SE         BYSTE   DOCELA SYRII NEMOCNICE PODOBNE  NEBUDE ZEPTAT TECHTO NEKTERYCH     
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-07.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-07.rec
+ LAB: Podle Miroslava Kalouska majÌ     o     dluhopisy pro   dom·cnost z·jem   vöechny banky Uû      d¯Ìve   ¯ekl ûe    by         je    to     mÏlo motivovat k   tomu aby  nevydÏl·vali jen na     poplatcÌch 
+ REC:                          PREMIERA SLOVA OTAZKA    NAJIT DOBU      OPOZICE NEMAM   ZAJEM VSICHNI DVACETI SIL  KAZDY VEREJNOSTI BEHEM NEKOHO DVA  TOHO      SIL ABY  NEVI DAVA         JEN NAOPAK SVYCH      
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-08.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-08.rec
+ LAB: S     podzimnÌm vystoupenÌm v        evropskÈ lize m˘ûe b˝t  manaûer sparùansk˝ch fotbalist˘ Jozef Chovanec spokojen˝ 
+ REC: POUZE NEMECKU   PENEZ       EVROPSKE LIDEM    LZE  VIME NASE STA     CESKYCH      VODA       STOJI ZROVNA   SPOJENYCH 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-09.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-09.rec
+ LAB: Ve skupinÏ jsme k       favorit˘m  nepat¯ily p¯itom p¯ed    poslednÌm z·pasem m·me   tolik bod˘ ûe  n·m     to       na    postup staËÌ konstatoval Chovanec mimo jinÈ na     p·teËnÌm setk·nÌ s       novin·¯i 
+ REC:            VE   SKUPINY PREDSTAVIT UDELAT    RESIT  SITUACE POSLEDNI  ZAKON   NEMAME TOLIK BUDU SIL DIVADLA NAPROSTO ZACIT SIL    KOLIK TAKOVA      NAKONEC  MIMO JINE NAOPAK CISLO    PTAM    ZNAMENA SI       
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-10.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-10.rec
+ LAB:                     Japonsko a        USA zah·jili jihov˝chodnÏ vojenskÈ manÈvry zvanÈ  ostr˝ meË CviËenÌ potrv· do        des·tÈho prosince a    je    nejvÏtöÌ uk·zkou vojenskÈ  sÌly kterou kdy obÏ  zemÏ  zorganizovaly 
+ REC: JAKO ZKRATKA DOSTAT NEMAJI   OBCHODNI ANO JISTE    MA           NEBYLA   MEHO    STEJNE CI    SIL SICE    NIKDO  DEVADESAT JEHO     PRO      SICE HRAJE NEJVETSI OTAZKU  POLITICKE CILI KTEROU KDY DOBE PENEZ ORGANIZACE    
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-11.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-11.rec
+ LAB:                                                          SevernÌ Korea mezitÌm posÌlila na     jiûnÌ hranici     svÈ      d·lkovÈ dÏlost¯electvo SpojenÈ st·ty spoleËnÏ s    Japonskem napl·novali vojenskÈ manÈvry nÏkolik t˝dn˘ p¯ed ned·vn˝m ˙tokem  KLDR na    jihokorejsk˝ ostrov jenû  v˝raznÏ vyost¯il napÏtÌ na    KorejskÈm poloostrovÏ 
+ REC: SEBE NIKDO JA MEZI TIMTO ZCELA NAJIT MELA NIC SVE TAKOVE DELAL   ZCELA CO      SIL      STEJNE STATY SPOLECNOSTI EVROPSKE NA      PANEM          ANEBO   JISTE MNE      BYCH NEKOLIK   TY          MINUT    REKNE   PANI    TUTO  TEM  KOLIK    ZEJMENA JAKO JEZDI ASPON        TISICE NEKDO ZCELA   VECI     JAKO   JISTE MOZNOST   DOBE        
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-12.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-12.rec
+ LAB:                 Evropsk· komise provedla razie v         nÏkolika farmaceutick˝ch firm·ch nap¯ÌË Ëlensk˝mi zemÏmi EvropskÈ unie   
+ REC: EVROPSKA KOMISE PRAVDA   HRAJE  NEKOLIKA SAMA  PRAKTICKY CHCETE   VAZNE           TRI     OBCAS  CILI      NEMELI EVROPSKE DUVERU 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-13.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-13.rec
+ LAB: NejmenovanÈ firmy  podez¯Ìv· z      toho    ûe  zdrûovali vstup druhov˝ch lÈk˘     na   trh    
+ REC: NEJENOM     NEJSEM JAKOBY    ZACINA STOLETI ZDE LZE       VAMI  SKUPINY   TAKOVYCH VEKU NECHCE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-14.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-14.rec
+ LAB:                           Neohl·öenÈ kontroly v     provozovat provozovn·ch provedli inspekto¯i t¯ic·tÈho listopadu MajÌ   za     to        ûe   farmaceutickÈ firmy v    nÏkter˝ch Ëlensk˝ch zemÌch zdrûovali aù    uû        koordinovanÏ nebo nez·visle na sobÏ vstup generick˝ch neboli   druhov˝ch lÈk˘     na   trh    
+ REC: NASI NEKOHO PROJEKT PROTO ZNAMENA    SPRAVNE  BYSTE TRICET     ZAJEM        ALESPON  PARDON     SIL       NAJIT     NAOPAK ZEMANA POLITICKE CELY NEKTERYCH     CASTI ZEMI JESTLIZE  VAMI      SIL    TAKY      SKOLY MINIMALNE NEBO         NEDA BYSTE     NA SOBE SIL   SOBE        NEJAKYCH NEBUDE    TAKOVYCH VEKU NAOPAK 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-15.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZKS/ZKS-15.rec
+ LAB: V˝robc˘m origin·lnÌch lÈk˘ by   situace vyhovovala protoûe po      vypröenÌ licence p¯ijdou o    konkurenËnÌ v˝hody  na      svÈ  lÈky   tÌm    ûe  je  mohou zaËÌt vyr·bÏt i    ostatnÌ 
+ REC:          VEC          ONO  LIDI NAM     RYCHLE     SLUZBY  SITUACE BYLA     PROTOZE DOBY    VASE NIC         NEKTERI DOKONCE SEDI HODINY ZALEZI TIM SIL ZIJE  MOHOU ZACINA  PETI OSTATNI 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-01.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-01.rec
+ LAB: UpozorÚujÌ na fakt    ûe   v˝voj  test˘ trv·    dlouho a   je      mnohem n·roËnÏjöÌ neû  resort  tvrdÌ 
+ REC:               POZVANI FAKT CHTEJI VITE  SKUPINA DLOUHO TEM ZNAMENA PRISTI SIL        NASE ROZHLAS TVRDI 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-02.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-02.rec
+ LAB: Uû po stÈ se slavÌ   Mezin·rodnÌ den         ûen    
+ REC:           U  SPOUSTA ZASADNI     MEZINARODNI NEMUZE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-03.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-03.rec
+ LAB:         Po¯adatelÈ na    mÌstÏ rozd·vali lidem text pÌsnÏ Kde    domov m˘j  a         informace o        historii Josefovsk˝ch kas·ren 
+ REC: POTREBA PANA       MISTE ZDA   LIDEM     TAK   SPIS NEKDE NEMUSI MUJ   PTAM INFORMACE AZ        POLITICE CESKYCH  KAM          ZAJEM   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-04.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-04.rec
+ LAB: Pouze se  tam    obeöli bez      podnikov˝ch oslav kterÈ si     uûÌvali hlavnÏ muûi    zatÌmco ûeny  p¯ipravovaly chlebÌËky 
+ REC: POUZE ZDA OBECNE BYSTE  TAKOVYCH POSLANECKE  SI    UZ    HLAVNE MUZE    SIL    ZATIMCO ZENY    RIKAL CHYBI        CTYRI     
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-05.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-05.rec
+ LAB: Povinn· v˝mÏna st·la dvÏ   miliardy    
+ REC: POD     JINA   MELA  STATY MEZINARODNI 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-06.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-06.rec
+ LAB:       Pro  laiky nenÌ totiû jejÌ pouûÌv·nÌ v˘bec jednoduchÈ 
+ REC: PLATI NYNI TOTIZ JIT  UZ    VAM  VUBEC     JEDNA DOCHAZI    
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-07.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-07.rec
+ LAB: Proch·zka nebyl k zastiûenÌ a     jeho    nad¯Ìzen˝ Aleö   Opata je     v    zahraniËÌ 
+ REC:                   PRAVA     STANE OBLASTI VCERA     RIZENI ALE   ZIVOTA TAKY ZAHRANICI 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-08.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-08.rec
+ LAB: Syrsk˝ prezident v      sobotu    ozn·mil ûe      do  t˝dne zruöÌ v˝jimeËn˝ stav kter˝ v    zemi trv·   uû     Ëty¯icet osm      let  
+ REC:                  STESTI PREZIDENT SEBOU   ZNAMENA SIL JDE   TY    NEJLEPSI  VIME CI    STAT SIL  PENIZE VYPADA HOST     CTYRICET SAMA 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-09.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-09.rec
+ LAB: Kdo byl poslednÌho b¯ezna v     It·lii   mohl b˝t        p¯ekvapen ûe       jsou ten den   beznadÏjnÏ zadanÈ rezervace v      restauracÌch a     kav·rn·ch 
+ REC:                           DOBRA POSLEDNI HO   PREDSTAVIT DALSICH   POLITIKA PAN  SIL CISLO TELEVIZE   PENEZ  JEDNE     ZEMANA CESTA        PRACI TAKOVA    
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-10.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-10.rec
+ LAB: Ministr Josef Dobeö podle        nÏj   ani    neodeslal RadÏ         Evropy  poûadovanou zpr·vu o     tom  jak  ¯eöÌ segregaci ökol·k˘ 
+ REC:                     MINISTERSTVA SKOLY JEDNIM DEVADESAT JEDNOTLIVYCH POTREBA ANO         STRANU POTOM PETI RICI DELA TEZKO     RADU    
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-11.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-11.rec
+ LAB: Ministr˘v n·mÏstek Ladislav NÏmec    m·      opaËn˝   n·zor 
+ REC: MINISTR   ONA      MESTA    HLEDISKA NEMECKU FINANCNI NAZOR 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-12.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-12.rec
+ LAB: äkoda byla  p¯edbÏûnÏ vyËÌslena na    t¯i   miliony korun 
+ REC:       CESKU DAVAT     REDITEL   CISLO PRACI MELI    KORUN 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-13.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-13.rec
+ LAB: V Ëele  brig·dy stanul teprve loni   
+ REC:   VCERA PRIPADE STALO  TEPRVE HLAVNI 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-14.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-14.rec
+ LAB: Tab·kovÈ firmy by     musely hledat ˙plnÏ  novÈ cesty jak se       v     oËÌch    z·kaznÌk˘ odliöit 
+ REC:                TAKOVE FIRMY  BY     MUSELI HRAT UPLNE CAS POLITICE POCIT ZAKLADNI DUVOD     RESIT   
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-15.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-15.rec
+ LAB: Tab·kovÈ firmy chtÏjÌ proti z·kazu prodeje cigaret v         p˘vodnÌm balenÌ    bojovat 
+ REC:                TAKOVE FIRMY CHTIT  DETI    ZAKLADE PREZIDENT PUL      MINIMALNE BYLA    
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-16.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-16.rec
+ LAB: J· osobnÏ si      myslÌm ûe   je   d˘leûitÈ aby ta ot·zka splÚovala urËitÈ parametry  
+ REC:           ZASADNI ZE     MEZI MUZE DULEZITE ABY TA OTAZKA STRANA    URCITE PARLAMENTU 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-17.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-17.rec
+ LAB:                   Je moûnÈ     posoudit kvalitu a   tedy  pouûitelnost poloûek tvrdÌ 
+ REC: JI MOZNA POSLEDNI TA REPUBLIKA TEDY     POUZE   TAM ASPON LZE          SIL     TVRDI 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-18.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-18.rec
+ LAB: Je nutnÈ uhlÌdat t¯eba to aby    test nebyl moc    jednoduch˝ a      nestaËilo mÌt   jen        ötÏstÌ p¯i    vybÌr·nÌ spr·vnÈ moûnosti 
+ REC:                           JINEHO LIDE TREBA NAOPAK VITE       STRANA MOCI      HNUTI RESPEKTIVE MISTE  STESTI RIKAM    SPRAVNE MOZNOSTI 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-19.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-19.rec
+ LAB: V     »esku ¯eöÌ      p¯edevöÌm ot·zku segregace ve   ökolstvÌ bydlenÌ    a     sterilizaci ûen   
+ REC: CESKU RESIT PREDEVSIM OTAZKU    SEBE   LIDE      CELE STESTI   POSLEDNICH HEZKE ZASE        ZADNE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-20.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-20.rec
+ LAB: V druhÈm p¯ÌpadÏ musÌte ot·zky naformulovat o       nÏkolik ¯·d˘   p¯esnÏji zd˘razÚuje 
+ REC:   DRUHE  PRIPADE MUSITE OTAZKY INFORMACE    NIKOLIV RADU    RIZENI SIL      VAZNE      
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-21.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-21.rec
+ LAB: A byl to pr·vÏ on kdo      na    velkÈ ztr·ty v     ˙noru p¯iöel a      ozn·mil je    policii 
+ REC:                   NAPROSTO PRAVE ALE   PRAVA  CESTA TYPU  MALO   PRISLA AZ      RAMCI POLICIE 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-22.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-22.rec
+ LAB:     A    f·ze     vyöet¯ov·nÌ neumoûÚuje poskytov·nÌ informacÌ 
+ REC: CAS AKCE PREDSEDA MELO        MOZNE      OSTATNI     INFORMACI 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-23.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-23.rec
+ LAB: Akce byla souË·stÌ v˝stavy  nazvanÈ »Ì          je  to    mÏsto? 
+ REC:      AKCE BYLA     SOUCASTI MISTA   JEDNOZNACNE SIL TIMTO MESTA  
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-24.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-24.rec
+ LAB: Akce se podle po¯adatel˘ ˙Ëastnila vÌce     neû  stovka     lidÌ   kterou po    celou  dobu  doprov·zela ostraha n·kupnÌho centra  
+ REC: AKCE SE PODLE PORAD      DAT       SOUCASNE AKCE SOCIALNICH KTEROU PO     CELOU NEBUDE PRAVA ZA          STRANA  SKUPINA   TENKRAT 
+Aligned transcription: D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-25.lab vs D:/VsTulPMR/data/Test/SpojitaRec/ZMK/ZMK-25.rec
+ LAB: Ale je   takÈ   pravda ûe       t¯eba    vloni  sv·tek MDé   doslova p¯ev·lcoval Valent˝na 
+ REC: ALE TAKE PRAVDA SIL    PREDSEDA HLEDISKA TENHLE TREBA  SLOVA TREBA   CELE        TYKA      
+====================== HTK Results Analysis =======================
+  Date: Thu Nov 24 22:56:21 2022
+  Ref : reference.mlf
+  Rec : results_1000.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=0.00 [H=0, S=173, N=173]
+WORD: %Corr=0.00, Acc=-2.44 [H=0, D=249, S=1634, I=46, N=1883]
+===================================================================

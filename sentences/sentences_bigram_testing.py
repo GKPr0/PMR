@@ -8,7 +8,7 @@ if __name__ == "__main__":
     #generate_phn_files("..\\data\\Test\\SpojitaRec", encoding="cp1250")
 
     #generate_wlist_file_from_data("wlist", "..\\data\\Test\\SpojitaRec")
-    #generate_lexicon_file_from_data("lexicon", "..\\data\\Test\\SpojitaRec")
+    generate_lexicon_file_from_data("lexicon", "..\\data\\Test\\SpojitaRec")
     #generate_word_loop_grammar_file_from_data("grammar", "..\\data\\Test\\SpojitaRec")
 
     s = 40  # best 40

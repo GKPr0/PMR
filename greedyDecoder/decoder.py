@@ -1,7 +1,6 @@
-
-from utils.HTKCommands import generate_report, run
+from utils.HTKCommands import generate_report
 from utils.HTKUtils import generate_lab_from_txt, generate_mlf_file_for_lab_files
-from utils.Utils import generate_txt_files_from_e2e_prob_files, get_file_list_from_source, replace_in_file
+from utils.Utils import generate_txt_files_from_e2e_prob_files, replace_in_file
 
 if __name__ == "__main__":
 
@@ -21,4 +20,3 @@ if __name__ == "__main__":
                     wlist="wlist",
                     result_mlf_file=e2e_results_mlf_file,
                     reference_mlf_file=reference_mlf_file)
-
